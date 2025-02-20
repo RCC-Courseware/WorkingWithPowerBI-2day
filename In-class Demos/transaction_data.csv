@@ -1,0 +1,1354 @@
+TransactionID,CustID,Date,Employee,ProductID,ProductName,VendorID,ProductVendor,UnitPrice,Quantity,Subtotal,Tax(8%),OrderTotal
+10258,1,7/17/2023,Nancy Davolio,32,Mascarpone Fabioli,14,Formaggi Fortini s.r.l.,25.6,6,153.6,12.29,165.89
+10275,2,8/7/2023,Nancy Davolio,24,Guaran Fantstica,10,Refrescos Americanas LTDA,3.6,12,43.2,3.46,46.66
+10275,2,8/7/2023,Nancy Davolio,59,Raclette Courdavault,28,Gai pturage,44,6,264,21.12,285.12
+10292,3,8/28/2023,Nancy Davolio,20,Sir Rodney's Marmalade,8,"Specialty Biscuits, Ltd.",64.8,20,1296,103.68,1399.68
+10293,4,8/29/2023,Nancy Davolio,18,Carnarvon Tigers,7,"Pavlova, Ltd.",50,12,600,48,648
+10293,4,8/29/2023,Nancy Davolio,24,Guaran Fantstica,10,Refrescos Americanas LTDA,3.6,10,36,2.88,38.88
+10293,4,8/29/2023,Nancy Davolio,63,Vegie-spread,7,"Pavlova, Ltd.",35.1,5,175.5,14.04,189.54
+10293,4,8/29/2023,Nancy Davolio,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,6.2,6,37.2,2.98,40.18
+10304,4,9/12/2023,Nancy Davolio,59,Raclette Courdavault,28,Gai pturage,44,10,440,35.2,475.2
+10304,4,9/12/2023,Nancy Davolio,71,Flotemysost,15,Norske Meierier,17.2,2,34.4,2.75,37.15
+10306,5,9/16/2023,Nancy Davolio,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,20.7,10,207,16.56,223.56
+10306,5,9/16/2023,Nancy Davolio,53,Perth Pasties,24,"G'day, Mate",26.2,10,262,20.96,282.96
+10306,5,9/16/2023,Nancy Davolio,54,Tourtire,25,Ma Maison,5.9,5,29.5,2.36,31.86
+10311,6,9/20/2023,Nancy Davolio,42,Singaporean Hokkien Fried Mee,20,Leka Trading,11.2,6,67.2,5.38,72.58
+10311,6,9/20/2023,Nancy Davolio,69,Gudbrandsdalsost,15,Norske Meierier,28.8,7,201.6,16.13,217.73
+10316,7,9/27/2023,Nancy Davolio,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,7.7,10,77,6.16,83.16
+10325,8,10/9/2023,Nancy Davolio,6,Grandma's Boysenberry Spread,3,Grandma Kelly's Homestead,20,6,120,9.6,129.6
+10325,8,10/9/2023,Nancy Davolio,13,Konbu,6,Mayumi's,4.8,12,57.6,4.61,62.21
+10325,8,10/9/2023,Nancy Davolio,14,Tofu,6,Mayumi's,18.6,9,167.4,13.39,180.79
+10325,8,10/9/2023,Nancy Davolio,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,10,4,40,3.2,43.2
+10340,9,10/29/2023,Nancy Davolio,18,Carnarvon Tigers,7,"Pavlova, Ltd.",50,20,1000,80,1080
+10340,9,10/29/2023,Nancy Davolio,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,7.7,12,92.4,7.39,99.79
+10351,1,11/11/2023,Nancy Davolio,38,Cte de Blaye,18,Aux joyeux ecclsiastiques,210.8,20,4216,337.28,4553.28
+10351,1,11/11/2023,Nancy Davolio,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,7.7,13,100.1,8.01,108.11
+10351,1,11/11/2023,Nancy Davolio,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,16.8,10,168,13.44,181.44
+10357,10,11/19/2023,Nancy Davolio,26,Gumbr Gummibrchen,11,Heli Swaren GmbH & Co. KG,24.9,16,398.4,31.87,430.27
+10357,10,11/19/2023,Nancy Davolio,60,Camembert Pierrot,28,Gai pturage,27.2,8,217.6,17.41,235.01
+10364,11,11/26/2023,Nancy Davolio,71,Flotemysost,15,Norske Meierier,17.2,5,86,6.88,92.88
+10371,12,12/3/2023,Nancy Davolio,36,Inlagd Sill,17,Svensk Sjfda AB,15.2,6,91.2,7.3,98.5
+10374,13,12/5/2023,Nancy Davolio,58,Escargots de Bourgogne,27,Escargots Nouveaux,10.6,15,159,12.72,171.72
+10377,14,12/9/2023,Nancy Davolio,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,36.4,20,728,58.24,786.24
+10377,14,12/9/2023,Nancy Davolio,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,14.4,20,288,23.04,311.04
+10385,15,12/17/2023,Nancy Davolio,7,Uncle Bob's Organic Dried Pears,3,Grandma Kelly's Homestead,24,10,240,19.2,259.2
+10385,15,12/17/2023,Nancy Davolio,60,Camembert Pierrot,28,Gai pturage,27.2,20,544,43.52,587.52
+10385,15,12/17/2023,Nancy Davolio,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",10,8,80,6.4,86.4
+10387,16,12/18/2023,Nancy Davolio,24,Guaran Fantstica,10,Refrescos Americanas LTDA,3.6,15,54,4.32,58.32
+10387,16,12/18/2023,Nancy Davolio,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,36.4,6,218.4,17.47,235.87
+10387,16,12/18/2023,Nancy Davolio,59,Raclette Courdavault,28,Gai pturage,44,12,528,42.24,570.24
+10387,16,12/18/2023,Nancy Davolio,71,Flotemysost,15,Norske Meierier,17.2,15,258,20.64,278.64
+10393,17,12/25/2023,Nancy Davolio,25,NuNuCa Nu-Nougat-Creme,11,Heli Swaren GmbH & Co. KG,11.2,7,78.4,6.27,84.67
+10394,18,12/25/2023,Nancy Davolio,13,Konbu,6,Mayumi's,4.8,10,48,3.84,51.84
+10394,18,12/25/2023,Nancy Davolio,62,Tarte au sucre,29,Forts d'rables,39.4,10,394,31.52,425.52
+10396,19,12/27/2023,Nancy Davolio,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,27.8,21,583.8,46.7,630.5
+10400,11,1/1/2024,Nancy Davolio,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,99,21,2079,166.32,2245.32
+10401,7,1/1/2024,Nancy Davolio,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,20.7,18,372.6,29.81,402.41
+10401,7,1/1/2024,Nancy Davolio,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,16.8,20,336,26.88,362.88
+10453,20,2/21/2024,Nancy Davolio,48,Chocolade,22,Zaanse Snoepfabriek,10.2,15,153,12.24,165.24
+10465,21,3/5/2024,Nancy Davolio,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,99,18,1782,142.56,1924.56
+10465,21,3/5/2024,Nancy Davolio,40,Boston Crab Meat,19,New England Seafood Cannery,14.7,20,294,23.52,317.52
+10469,22,3/10/2024,Nancy Davolio,44,Gula Malacca,20,Leka Trading,15.5,2,31,2.48,33.48
+10473,23,3/13/2024,Nancy Davolio,33,Geitost,15,Norske Meierier,2,12,24,1.92,25.92
+10473,23,3/13/2024,Nancy Davolio,71,Flotemysost,15,Norske Meierier,17.2,12,206.4,16.51,222.91
+10482,24,3/21/2024,Nancy Davolio,40,Boston Crab Meat,19,New England Seafood Cannery,14.7,10,147,11.76,158.76
+10486,25,3/26/2024,Nancy Davolio,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',16.8,5,84,6.72,90.72
+10486,25,3/26/2024,Nancy Davolio,74,Longlife Tofu,4,Tokyo Traders,8,16,128,10.24,138.24
+10508,26,4/16/2024,Nancy Davolio,13,Konbu,6,Mayumi's,6,10,60,4.8,64.8
+10508,26,4/16/2024,Nancy Davolio,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,18,10,180,14.4,194.4
+10524,27,5/1/2024,Nancy Davolio,10,Ikura,4,Tokyo Traders,31,2,62,4.96,66.96
+10524,27,5/1/2024,Nancy Davolio,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,25.89,10,258.9,20.71,279.61
+10524,27,5/1/2024,Nancy Davolio,54,Tourtire,25,Ma Maison,7.45,15,111.75,8.94,120.69
+10525,9,5/2/2024,Nancy Davolio,40,Boston Crab Meat,19,New England Seafood Cannery,18.4,15,276,22.08,298.08
+10537,28,5/14/2024,Nancy Davolio,51,Manjimup Dried Apples,24,"G'day, Mate",53,6,318,25.44,343.44
+10537,28,5/14/2024,Nancy Davolio,58,Escargots de Bourgogne,27,Escargots Nouveaux,13.25,20,265,21.2,286.2
+10537,28,5/14/2024,Nancy Davolio,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,34.8,21,730.8,58.46,789.26
+10537,28,5/14/2024,Nancy Davolio,73,Rd Kaviar,17,Svensk Sjfda AB,15,9,135,10.8,145.8
+10542,8,5/20/2024,Nancy Davolio,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',21,15,315,25.2,340.2
+10542,8,5/20/2024,Nancy Davolio,54,Tourtire,25,Ma Maison,7.45,24,178.8,14.3,193.1
+10546,29,5/23/2024,Nancy Davolio,7,Uncle Bob's Organic Dried Pears,3,Grandma Kelly's Homestead,30,10,300,24,324
+10558,20,6/4/2024,Nancy Davolio,51,Manjimup Dried Apples,24,"G'day, Mate",53,20,1060,84.8,1144.8
+10558,20,6/4/2024,Nancy Davolio,53,Perth Pasties,24,"G'day, Mate",32.8,18,590.4,47.23,637.63
+10558,20,6/4/2024,Nancy Davolio,73,Rd Kaviar,17,Svensk Sjfda AB,15,3,45,3.6,48.6
+10562,30,6/9/2024,Nancy Davolio,33,Geitost,15,Norske Meierier,2.5,20,50,4,54
+10562,30,6/9/2024,Nancy Davolio,62,Tarte au sucre,29,Forts d'rables,49.3,10,493,39.44,532.44
+10567,31,6/12/2024,Nancy Davolio,51,Manjimup Dried Apples,24,"G'day, Mate",53,3,159,12.72,171.72
+10579,32,6/25/2024,Nancy Davolio,15,Genen Shouyu,6,Mayumi's,15.5,10,155,12.4,167.4
+10579,32,6/25/2024,Nancy Davolio,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,7.75,21,162.75,13.02,175.77
+10587,33,7/2/2024,Nancy Davolio,26,Gumbr Gummibrchen,11,Heli Swaren GmbH & Co. KG,31.23,6,187.38,14.99,202.37
+10587,33,7/2/2024,Nancy Davolio,35,Steeleye Stout,16,Bigfoot Breweries,18,20,360,28.8,388.8
+10587,33,7/2/2024,Nancy Davolio,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,13,20,260,20.8,280.8
+10591,21,7/7/2024,Nancy Davolio,3,Aniseed Syrup,1,Exotic Liquids,10,14,140,11.2,151.2
+10591,21,7/7/2024,Nancy Davolio,7,Uncle Bob's Organic Dried Pears,3,Grandma Kelly's Homestead,30,10,300,24,324
+10598,7,7/14/2024,Nancy Davolio,71,Flotemysost,15,Norske Meierier,21.5,9,193.5,15.48,208.98
+10604,34,7/18/2024,Nancy Davolio,48,Chocolade,22,Zaanse Snoepfabriek,12.75,6,76.5,6.12,82.62
+10604,34,7/18/2024,Nancy Davolio,76,Lakkalikri,23,Karkki Oy,18,10,180,14.4,194.4
+10605,35,7/21/2024,Nancy Davolio,59,Raclette Courdavault,28,Gai pturage,55,20,1100,88,1188
+10605,35,7/21/2024,Nancy Davolio,71,Flotemysost,15,Norske Meierier,21.5,15,322.5,25.8,348.3
+10612,17,7/28/2024,Nancy Davolio,49,Maxilaku,23,Karkki Oy,20,18,360,28.8,388.8
+10616,36,7/31/2024,Nancy Davolio,38,Cte de Blaye,18,Aux joyeux ecclsiastiques,263.5,15,3952.5,316.2,4268.7
+10616,36,7/31/2024,Nancy Davolio,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,38,14,532,42.56,574.56
+10616,36,7/31/2024,Nancy Davolio,70,Outback Lager,7,"Pavlova, Ltd.",15,15,225,18,243
+10616,36,7/31/2024,Nancy Davolio,71,Flotemysost,15,Norske Meierier,21.5,15,322.5,25.8,348.3
+10618,35,8/1/2024,Nancy Davolio,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,38,20,760,60.8,820.8
+10618,35,8/1/2024,Nancy Davolio,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",12.5,15,187.5,15,202.5
+10626,27,8/11/2024,Nancy Davolio,53,Perth Pasties,24,"G'day, Mate",32.8,12,393.6,31.49,425.09
+10626,27,8/11/2024,Nancy Davolio,60,Camembert Pierrot,28,Gai pturage,34,20,680,54.4,734.4
+10626,27,8/11/2024,Nancy Davolio,71,Flotemysost,15,Norske Meierier,21.5,20,430,34.4,464.4
+10630,8,8/13/2024,Nancy Davolio,55,Pt chinois,25,Ma Maison,24,12,288,23.04,311.04
+10653,19,9/2/2024,Nancy Davolio,60,Camembert Pierrot,28,Gai pturage,34,20,680,54.4,734.4
+10655,30,9/3/2024,Nancy Davolio,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,20,193,15.44,208.44
+10664,34,9/10/2024,Nancy Davolio,10,Ikura,4,Tokyo Traders,31,24,744,59.52,803.52
+10664,34,9/10/2024,Nancy Davolio,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,38,12,456,36.48,492.48
+10664,34,9/10/2024,Nancy Davolio,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,21.05,15,315.75,25.26,341.01
+10665,37,9/11/2024,Nancy Davolio,51,Manjimup Dried Apples,24,"G'day, Mate",53,20,1060,84.8,1144.8
+10665,37,9/11/2024,Nancy Davolio,59,Raclette Courdavault,28,Gai pturage,55,1,55,4.4,59.4
+10665,37,9/11/2024,Nancy Davolio,76,Lakkalikri,23,Karkki Oy,18,10,180,14.4,194.4
+10668,38,9/15/2024,Nancy Davolio,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,8,100,8,108
+10668,38,9/15/2024,Nancy Davolio,55,Pt chinois,25,Ma Maison,24,4,96,7.68,103.68
+10668,38,9/15/2024,Nancy Davolio,64,Wimmers gute Semmelkndel,12,Plutzer Lebensmittelgromrkte AG,33.25,15,498.75,39.9,538.65
+10671,39,9/17/2024,Nancy Davolio,16,Pavlova,7,"Pavlova, Ltd.",17.45,10,174.5,13.96,188.46
+10671,39,9/17/2024,Nancy Davolio,62,Tarte au sucre,29,Forts d'rables,49.3,10,493,39.44,532.44
+10671,39,9/17/2024,Nancy Davolio,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,21.05,12,252.6,20.21,272.81
+10677,40,9/22/2024,Nancy Davolio,33,Geitost,15,Norske Meierier,2.5,8,20,1.6,21.6
+10680,41,9/24/2024,Nancy Davolio,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,20,250,20,270
+10690,42,10/2/2024,Nancy Davolio,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,38,20,760,60.8,820.8
+10709,43,10/17/2024,Nancy Davolio,60,Camembert Pierrot,28,Gai pturage,34,10,340,27.2,367.2
+10710,44,10/20/2024,Nancy Davolio,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",9.2,5,46,3.68,49.68
+10710,44,10/20/2024,Nancy Davolio,47,Zaanse koeken,22,Zaanse Snoepfabriek,9.5,5,47.5,3.8,51.3
+10713,17,10/22/2024,Nancy Davolio,10,Ikura,4,Tokyo Traders,31,18,558,44.64,602.64
+10713,17,10/22/2024,Nancy Davolio,46,Spegesild,21,Lyngbysild,12,24,288,23.04,311.04
+10717,19,10/24/2024,Nancy Davolio,54,Tourtire,25,Ma Maison,7.45,15,111.75,8.94,120.69
+10718,8,10/27/2024,Nancy Davolio,16,Pavlova,7,"Pavlova, Ltd.",17.45,20,349,27.92,376.92
+10718,8,10/27/2024,Nancy Davolio,62,Tarte au sucre,29,Forts d'rables,49.3,20,986,78.88,1064.88
+10733,27,11/7/2024,Nancy Davolio,14,Tofu,6,Mayumi's,23.25,16,372,29.76,401.76
+10733,27,11/7/2024,Nancy Davolio,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,45.6,20,912,72.96,984.96
+10746,45,11/19/2024,Nancy Davolio,13,Konbu,6,Mayumi's,6,6,36,2.88,38.88
+10746,45,11/19/2024,Nancy Davolio,62,Tarte au sucre,29,Forts d'rables,49.3,9,443.7,35.5,479.2
+10773,1,12/11/2024,Nancy Davolio,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,7.75,7,54.25,4.34,58.59
+10776,1,12/15/2024,Nancy Davolio,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,16,200,16,216
+10776,1,12/15/2024,Nancy Davolio,42,Singaporean Hokkien Fried Mee,20,Leka Trading,14,12,168,13.44,181.44
+10785,46,12/18/2024,Nancy Davolio,10,Ikura,4,Tokyo Traders,31,10,310,24.8,334.8
+10785,46,12/18/2024,Nancy Davolio,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,7.75,10,77.5,6.2,83.7
+10789,47,12/22/2024,Nancy Davolio,35,Steeleye Stout,16,Bigfoot Breweries,18,15,270,21.6,291.6
+10789,47,12/22/2024,Nancy Davolio,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",12.5,18,225,18,243
+10792,13,12/23/2024,Nancy Davolio,2,Chang,1,Exotic Liquids,19,10,190,15.2,205.2
+10792,13,12/23/2024,Nancy Davolio,54,Tourtire,25,Ma Maison,7.45,3,22.35,1.79,24.14
+10792,13,12/23/2024,Nancy Davolio,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",12.5,15,187.5,15,202.5
+10800,14,12/26/2024,Nancy Davolio,51,Manjimup Dried Apples,24,"G'day, Mate",53,10,530,42.4,572.4
+10800,14,12/26/2024,Nancy Davolio,54,Tourtire,25,Ma Maison,7.45,7,52.15,4.17,56.32
+10813,48,1/5/2025,Nancy Davolio,2,Chang,1,Exotic Liquids,19,12,228,18.24,246.24
+10821,15,1/8/2025,Nancy Davolio,35,Steeleye Stout,16,Bigfoot Breweries,18,20,360,28.8,388.8
+10821,15,1/8/2025,Nancy Davolio,51,Manjimup Dried Apples,24,"G'day, Mate",53,6,318,25.44,343.44
+10825,49,1/9/2025,Nancy Davolio,26,Gumbr Gummibrchen,11,Heli Swaren GmbH & Co. KG,31.23,12,374.76,29.98,404.74
+10825,49,1/9/2025,Nancy Davolio,53,Perth Pasties,24,"G'day, Mate",32.8,20,656,52.48,708.48
+10827,9,1/12/2025,Nancy Davolio,10,Ikura,4,Tokyo Traders,31,15,465,37.2,502.2
+10827,9,1/12/2025,Nancy Davolio,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,18,21,378,30.24,408.24
+10834,3,1/15/2025,Nancy Davolio,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,123.79,8,990.32,79.23,1069.55
+10834,3,1/15/2025,Nancy Davolio,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,25.89,20,517.8,41.42,559.22
+10835,50,1/15/2025,Nancy Davolio,59,Raclette Courdavault,28,Gai pturage,55,15,825,66,891
+10835,50,1/15/2025,Nancy Davolio,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,13,2,26,2.08,28.08
+10842,4,1/20/2025,Nancy Davolio,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',21,15,315,25.2,340.2
+10842,4,1/20/2025,Nancy Davolio,43,Ipoh Coffee,20,Leka Trading,46,5,230,18.4,248.4
+10842,4,1/20/2025,Nancy Davolio,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",12.5,20,250,20,270
+10842,4,1/20/2025,Nancy Davolio,70,Outback Lager,7,"Pavlova, Ltd.",15,12,180,14.4,194.4
+10850,29,1/23/2025,Nancy Davolio,25,NuNuCa Nu-Nougat-Creme,11,Heli Swaren GmbH & Co. KG,14,20,280,22.4,302.4
+10850,29,1/23/2025,Nancy Davolio,33,Geitost,15,Norske Meierier,2.5,4,10,0.8,10.8
+10888,51,2/16/2025,Nancy Davolio,2,Chang,1,Exotic Liquids,19,20,380,30.4,410.4
+10888,51,2/16/2025,Nancy Davolio,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",12.5,18,225,18,243
+10900,52,2/20/2025,Nancy Davolio,70,Outback Lager,7,"Pavlova, Ltd.",15,3,45,3.6,48.6
+10902,53,2/23/2025,Nancy Davolio,62,Tarte au sucre,29,Forts d'rables,49.3,6,295.8,23.66,319.46
+10909,16,2/26/2025,Nancy Davolio,7,Uncle Bob's Organic Dried Pears,3,Grandma Kelly's Homestead,30,12,360,28.8,388.8
+10909,16,2/26/2025,Nancy Davolio,16,Pavlova,7,"Pavlova, Ltd.",17.45,15,261.75,20.94,282.69
+10909,16,2/26/2025,Nancy Davolio,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,5,48.25,3.86,52.11
+10910,54,2/26/2025,Nancy Davolio,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",9.2,12,110.4,8.83,119.23
+10910,54,2/26/2025,Nancy Davolio,49,Maxilaku,23,Karkki Oy,20,10,200,16,216
+10910,54,2/26/2025,Nancy Davolio,61,Sirop d'rable,29,Forts d'rables,28.5,5,142.5,11.4,153.9
+10916,55,2/27/2025,Nancy Davolio,16,Pavlova,7,"Pavlova, Ltd.",17.45,6,104.7,8.38,113.08
+10916,55,2/27/2025,Nancy Davolio,32,Mascarpone Fabioli,14,Formaggi Fortini s.r.l.,32,6,192,15.36,207.36
+10916,55,2/27/2025,Nancy Davolio,57,Ravioli Angelo,26,Pasta Buttini s.r.l.,19.5,20,390,31.2,421.2
+10921,21,3/3/2025,Nancy Davolio,35,Steeleye Stout,16,Bigfoot Breweries,18,10,180,14.4,194.4
+10928,56,3/5/2025,Nancy Davolio,47,Zaanse koeken,22,Zaanse Snoepfabriek,9.5,5,47.5,3.8,51.3
+10928,56,3/5/2025,Nancy Davolio,76,Lakkalikri,23,Karkki Oy,18,5,90,7.2,97.2
+10950,2,3/16/2025,Nancy Davolio,4,Chef Anton's Cajun Seasoning,2,New Orleans Cajun Delights,22,5,110,8.8,118.8
+10952,50,3/16/2025,Nancy Davolio,6,Grandma's Boysenberry Spread,3,Grandma Kelly's Homestead,25,16,400,32,432
+10952,50,3/16/2025,Nancy Davolio,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,45.6,2,91.2,7.3,98.5
+10968,1,3/23/2025,Nancy Davolio,64,Wimmers gute Semmelkndel,12,Plutzer Lebensmittelgromrkte AG,33.25,4,133,10.64,143.64
+10969,57,3/23/2025,Nancy Davolio,46,Spegesild,21,Lyngbysild,12,9,108,8.64,116.64
+10975,58,3/25/2025,Nancy Davolio,8,Northwoods Cranberry Sauce,3,Grandma Kelly's Homestead,40,16,640,51.2,691.2
+10975,58,3/25/2025,Nancy Davolio,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,7.75,10,77.5,6.2,83.7
+10976,25,3/25/2025,Nancy Davolio,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,45.6,20,912,72.96,984.96
+10984,17,3/30/2025,Nancy Davolio,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,20,90,7.2,97.2
+10991,59,4/1/2025,Nancy Davolio,70,Outback Lager,7,"Pavlova, Ltd.",15,20,300,24,324
+10992,60,4/1/2025,Nancy Davolio,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,34.8,2,69.6,5.57,75.17
+10995,61,4/2/2025,Nancy Davolio,51,Manjimup Dried Apples,24,"G'day, Mate",53,20,1060,84.8,1144.8
+10995,61,4/2/2025,Nancy Davolio,60,Camembert Pierrot,28,Gai pturage,34,4,136,10.88,146.88
+11023,62,4/14/2025,Nancy Davolio,7,Uncle Bob's Organic Dried Pears,3,Grandma Kelly's Homestead,30,4,120,9.6,129.6
+11027,58,4/16/2025,Nancy Davolio,62,Tarte au sucre,29,Forts d'rables,49.3,21,1035.3,82.82,1118.12
+11038,63,4/21/2025,Nancy Davolio,40,Boston Crab Meat,19,New England Seafood Cannery,18.4,5,92,7.36,99.36
+11038,63,4/21/2025,Nancy Davolio,52,Filo Mix,24,"G'day, Mate",7,2,14,1.12,15.12
+11039,64,4/21/2025,Nancy Davolio,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,45.6,20,912,72.96,984.96
+11039,64,4/21/2025,Nancy Davolio,35,Steeleye Stout,16,Bigfoot Breweries,18,24,432,34.56,466.56
+11064,17,5/1/2025,Nancy Davolio,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,12,115.8,9.26,125.06
+11064,17,5/1/2025,Nancy Davolio,55,Pt chinois,25,Ma Maison,24,4,96,7.68,103.68
+11067,49,5/4/2025,Nancy Davolio,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,9,86.85,6.95,93.8
+11069,4,5/4/2025,Nancy Davolio,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,18,20,360,28.8,388.8
+11071,10,5/5/2025,Nancy Davolio,7,Uncle Bob's Organic Dried Pears,3,Grandma Kelly's Homestead,30,15,450,36,486
+11071,10,5/5/2025,Nancy Davolio,13,Konbu,6,Mayumi's,6,10,60,4.8,64.8
+11077,7,5/6/2025,Nancy Davolio,2,Chang,1,Exotic Liquids,19,24,456,36.48,492.48
+11077,7,5/6/2025,Nancy Davolio,3,Aniseed Syrup,1,Exotic Liquids,10,4,40,3.2,43.2
+11077,7,5/6/2025,Nancy Davolio,4,Chef Anton's Cajun Seasoning,2,New Orleans Cajun Delights,22,1,22,1.76,23.76
+11077,7,5/6/2025,Nancy Davolio,6,Grandma's Boysenberry Spread,3,Grandma Kelly's Homestead,25,1,25,2,27
+11077,7,5/6/2025,Nancy Davolio,7,Uncle Bob's Organic Dried Pears,3,Grandma Kelly's Homestead,30,1,30,2.4,32.4
+11077,7,5/6/2025,Nancy Davolio,8,Northwoods Cranberry Sauce,3,Grandma Kelly's Homestead,40,2,80,6.4,86.4
+11077,7,5/6/2025,Nancy Davolio,10,Ikura,4,Tokyo Traders,31,1,31,2.48,33.48
+11077,7,5/6/2025,Nancy Davolio,12,Queso Manchego La Pastora,5,Cooperativa de Quesos 'Las Cabras',38,2,76,6.08,82.08
+11077,7,5/6/2025,Nancy Davolio,13,Konbu,6,Mayumi's,6,4,24,1.92,25.92
+11077,7,5/6/2025,Nancy Davolio,14,Tofu,6,Mayumi's,23.25,1,23.25,1.86,25.11
+11077,7,5/6/2025,Nancy Davolio,16,Pavlova,7,"Pavlova, Ltd.",17.45,2,34.9,2.79,37.69
+11077,7,5/6/2025,Nancy Davolio,20,Sir Rodney's Marmalade,8,"Specialty Biscuits, Ltd.",81,1,81,6.48,87.48
+11077,7,5/6/2025,Nancy Davolio,23,Tunnbrd,9,PB Knckebrd AB,9,2,18,1.44,19.44
+11077,7,5/6/2025,Nancy Davolio,32,Mascarpone Fabioli,14,Formaggi Fortini s.r.l.,32,1,32,2.56,34.56
+11077,7,5/6/2025,Nancy Davolio,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,18,2,36,2.88,38.88
+11077,7,5/6/2025,Nancy Davolio,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,3,28.95,2.32,31.27
+11077,7,5/6/2025,Nancy Davolio,46,Spegesild,21,Lyngbysild,12,3,36,2.88,38.88
+11077,7,5/6/2025,Nancy Davolio,52,Filo Mix,24,"G'day, Mate",7,2,14,1.12,15.12
+11077,7,5/6/2025,Nancy Davolio,55,Pt chinois,25,Ma Maison,24,2,48,3.84,51.84
+11077,7,5/6/2025,Nancy Davolio,60,Camembert Pierrot,28,Gai pturage,34,2,68,5.44,73.44
+11077,7,5/6/2025,Nancy Davolio,64,Wimmers gute Semmelkndel,12,Plutzer Lebensmittelgromrkte AG,33.25,2,66.5,5.32,71.82
+11077,7,5/6/2025,Nancy Davolio,66,Louisiana Hot Spiced Okra,2,New Orleans Cajun Delights,17,1,17,1.36,18.36
+11077,7,5/6/2025,Nancy Davolio,73,Rd Kaviar,17,Svensk Sjfda AB,15,2,30,2.4,32.4
+11077,7,5/6/2025,Nancy Davolio,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,7.75,4,31,2.48,33.48
+11077,7,5/6/2025,Nancy Davolio,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,13,2,26,2.08,28.08
+10265,65,7/25/2023,Andrew Fuller,70,Outback Lager,7,"Pavlova, Ltd.",12,20,240,19.2,259.2
+10277,66,8/9/2023,Andrew Fuller,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,36.4,20,728,58.24,786.24
+10277,66,8/9/2023,Andrew Fuller,62,Tarte au sucre,29,Forts d'rables,39.4,12,472.8,37.82,510.62
+10280,27,8/14/2023,Andrew Fuller,24,Guaran Fantstica,10,Refrescos Americanas LTDA,3.6,12,43.2,3.46,46.66
+10280,27,8/14/2023,Andrew Fuller,55,Pt chinois,25,Ma Maison,19.2,20,384,30.72,414.72
+10295,67,9/2/2023,Andrew Fuller,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,30.4,4,121.6,9.73,131.33
+10300,2,9/9/2023,Andrew Fuller,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",10,20,200,16,216
+10307,37,9/17/2023,Andrew Fuller,62,Tarte au sucre,29,Forts d'rables,39.4,10,394,31.52,425.52
+10307,37,9/17/2023,Andrew Fuller,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",10,3,30,2.4,32.4
+10312,38,9/23/2023,Andrew Fuller,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,36.4,4,145.6,11.65,157.25
+10312,38,9/23/2023,Andrew Fuller,43,Ipoh Coffee,20,Leka Trading,36.8,24,883.2,70.66,953.86
+10312,38,9/23/2023,Andrew Fuller,53,Perth Pasties,24,"G'day, Mate",26.2,20,524,41.92,565.92
+10312,38,9/23/2023,Andrew Fuller,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,6.2,10,62,4.96,66.96
+10313,59,9/24/2023,Andrew Fuller,36,Inlagd Sill,17,Svensk Sjfda AB,15.2,12,182.4,14.59,196.99
+10339,35,10/28/2023,Andrew Fuller,4,Chef Anton's Cajun Seasoning,2,New Orleans Cajun Delights,17.6,10,176,14.08,190.08
+10345,59,11/4/2023,Andrew Fuller,42,Singaporean Hokkien Fried Mee,20,Leka Trading,11.2,9,100.8,8.06,108.86
+10368,1,11/29/2023,Andrew Fuller,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",8,5,40,3.2,43.2
+10368,1,11/29/2023,Andrew Fuller,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,36.4,13,473.2,37.86,511.06
+10379,33,12/11/2023,Andrew Fuller,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,7.7,8,61.6,4.93,66.53
+10379,33,12/11/2023,Andrew Fuller,63,Vegie-spread,7,"Pavlova, Ltd.",35.1,16,561.6,44.93,606.53
+10379,33,12/11/2023,Andrew Fuller,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,16.8,20,336,26.88,362.88
+10388,14,12/19/2023,Andrew Fuller,45,Rogede sild,21,Lyngbysild,7.6,15,114,9.12,123.12
+10388,14,12/19/2023,Andrew Fuller,52,Filo Mix,24,"G'day, Mate",5.6,20,112,8.96,120.96
+10407,26,1/7/2024,Andrew Fuller,69,Gudbrandsdalsost,15,Norske Meierier,28.8,15,432,34.56,466.56
+10407,26,1/7/2024,Andrew Fuller,71,Flotemysost,15,Norske Meierier,17.2,15,258,20.64,278.64
+10414,68,1/14/2024,Andrew Fuller,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",7.3,18,131.4,10.51,141.91
+10422,44,1/22/2024,Andrew Fuller,26,Gumbr Gummibrchen,11,Heli Swaren GmbH & Co. KG,24.9,2,49.8,3.98,53.78
+10462,69,3/3/2024,Andrew Fuller,13,Konbu,6,Mayumi's,4.8,1,4.8,0.38,5.18
+10462,69,3/3/2024,Andrew Fuller,23,Tunnbrd,9,PB Knckebrd AB,7.2,21,151.2,12.1,163.3
+10471,62,3/11/2024,Andrew Fuller,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,30.4,20,608,48.64,656.64
+10478,29,3/18/2024,Andrew Fuller,10,Ikura,4,Tokyo Traders,24.8,20,496,39.68,535.68
+10487,70,3/26/2024,Andrew Fuller,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",7.3,5,36.5,2.92,39.42
+10487,70,3/26/2024,Andrew Fuller,54,Tourtire,25,Ma Maison,5.9,24,141.6,11.33,152.93
+10502,61,4/10/2024,Andrew Fuller,45,Rogede sild,21,Lyngbysild,9.5,21,199.5,15.96,215.46
+10502,61,4/10/2024,Andrew Fuller,53,Perth Pasties,24,"G'day, Mate",32.8,6,196.8,15.74,212.54
+10515,59,4/23/2024,Andrew Fuller,9,Mishi Kobe Niku,4,Tokyo Traders,97,16,1552,124.16,1676.16
+10515,59,4/23/2024,Andrew Fuller,33,Geitost,15,Norske Meierier,2.5,16,40,3.2,43.2
+10516,31,4/24/2024,Andrew Fuller,42,Singaporean Hokkien Fried Mee,20,Leka Trading,14,20,280,22.4,302.4
+10541,42,5/19/2024,Andrew Fuller,38,Cte de Blaye,18,Aux joyeux ecclsiastiques,263.5,4,1054,84.32,1138.32
+10541,42,5/19/2024,Andrew Fuller,71,Flotemysost,15,Norske Meierier,21.5,9,193.5,15.48,208.98
+10552,25,5/29/2024,Andrew Fuller,69,Gudbrandsdalsost,15,Norske Meierier,36,18,648,51.84,699.84
+10553,71,5/30/2024,Andrew Fuller,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',21,15,315,25.2,340.2
+10553,71,5/30/2024,Andrew Fuller,16,Pavlova,7,"Pavlova, Ltd.",17.45,14,244.3,19.54,263.84
+10553,71,5/30/2024,Andrew Fuller,22,Gustaf's Knckebrd,9,PB Knckebrd AB,21,24,504,40.32,544.32
+10553,71,5/30/2024,Andrew Fuller,35,Steeleye Stout,16,Bigfoot Breweries,18,6,108,8.64,116.64
+10556,72,6/3/2024,Andrew Fuller,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,34.8,24,835.2,66.82,902.02
+10561,53,6/6/2024,Andrew Fuller,44,Gula Malacca,20,Leka Trading,19.45,10,194.5,15.56,210.06
+10583,71,6/30/2024,Andrew Fuller,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,123.79,10,1237.9,99.03,1336.93
+10583,71,6/30/2024,Andrew Fuller,60,Camembert Pierrot,28,Gai pturage,34,24,816,65.28,881.28
+10583,71,6/30/2024,Andrew Fuller,69,Gudbrandsdalsost,15,Norske Meierier,36,10,360,28.8,388.8
+10615,54,7/30/2024,Andrew Fuller,55,Pt chinois,25,Ma Maison,24,5,120,9.6,129.6
+10620,73,8/5/2024,Andrew Fuller,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,5,22.5,1.8,24.3
+10620,73,8/5/2024,Andrew Fuller,52,Filo Mix,24,"G'day, Mate",7,5,35,2.8,37.8
+10657,17,9/4/2024,Andrew Fuller,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,24,231.6,18.53,250.13
+10657,17,9/4/2024,Andrew Fuller,47,Zaanse koeken,22,Zaanse Snoepfabriek,9.5,10,95,7.6,102.6
+10663,9,9/10/2024,Andrew Fuller,51,Manjimup Dried Apples,24,"G'day, Mate",53,20,1060,84.8,1144.8
+10673,54,9/18/2024,Andrew Fuller,16,Pavlova,7,"Pavlova, Ltd.",17.45,3,52.35,4.19,56.54
+10673,54,9/18/2024,Andrew Fuller,42,Singaporean Hokkien Fried Mee,20,Leka Trading,14,6,84,6.72,90.72
+10673,54,9/18/2024,Andrew Fuller,43,Ipoh Coffee,20,Leka Trading,46,6,276,22.08,298.08
+10676,4,9/22/2024,Andrew Fuller,10,Ikura,4,Tokyo Traders,31,2,62,4.96,66.96
+10676,4,9/22/2024,Andrew Fuller,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",9.2,7,64.4,5.15,69.55
+10676,4,9/22/2024,Andrew Fuller,44,Gula Malacca,20,Leka Trading,19.45,21,408.45,32.68,441.13
+10683,6,9/26/2024,Andrew Fuller,52,Filo Mix,24,"G'day, Mate",7,9,63,5.04,68.04
+10686,74,9/30/2024,Andrew Fuller,26,Gumbr Gummibrchen,11,Heli Swaren GmbH & Co. KG,31.23,15,468.45,37.48,505.93
+10691,59,10/3/2024,Andrew Fuller,44,Gula Malacca,20,Leka Trading,19.45,24,466.8,37.34,504.14
+10727,30,11/3/2024,Andrew Fuller,17,Alice Mutton,7,"Pavlova, Ltd.",39,20,780,62.4,842.4
+10727,30,11/3/2024,Andrew Fuller,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,38,10,380,30.4,410.4
+10727,30,11/3/2024,Andrew Fuller,59,Raclette Courdavault,28,Gai pturage,55,10,550,44,594
+10734,43,11/7/2024,Andrew Fuller,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,25.89,15,388.35,31.07,419.42
+10734,43,11/7/2024,Andrew Fuller,76,Lakkalikri,23,Karkki Oy,18,20,360,28.8,388.8
+10737,67,11/11/2024,Andrew Fuller,13,Konbu,6,Mayumi's,6,4,24,1.92,25.92
+10737,67,11/11/2024,Andrew Fuller,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,12,115.8,9.26,125.06
+10738,75,11/12/2024,Andrew Fuller,16,Pavlova,7,"Pavlova, Ltd.",17.45,3,52.35,4.19,56.54
+10752,76,11/24/2024,Andrew Fuller,1,Chai,1,Exotic Liquids,18,8,144,11.52,155.52
+10752,76,11/24/2024,Andrew Fuller,69,Gudbrandsdalsost,15,Norske Meierier,36,3,108,8.64,116.64
+10780,10,12/16/2024,Andrew Fuller,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,13,15,195,15.6,210.6
+10781,71,12/17/2024,Andrew Fuller,54,Tourtire,25,Ma Maison,7.45,3,22.35,1.79,24.14
+10781,71,12/17/2024,Andrew Fuller,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,38,20,760,60.8,820.8
+10787,12,12/19/2024,Andrew Fuller,2,Chang,1,Exotic Liquids,19,15,285,22.8,307.8
+10787,12,12/19/2024,Andrew Fuller,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,123.79,20,2475.8,198.06,2673.86
+10798,23,12/26/2024,Andrew Fuller,62,Tarte au sucre,29,Forts d'rables,49.3,2,98.6,7.89,106.49
+10798,23,12/26/2024,Andrew Fuller,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,34.8,10,348,27.84,375.84
+10805,60,12/30/2024,Andrew Fuller,34,Sasquatch Ale,16,Bigfoot Breweries,14,10,140,11.2,151.2
+10805,60,12/30/2024,Andrew Fuller,38,Cte de Blaye,18,Aux joyeux ecclsiastiques,263.5,10,2635,210.8,2845.8
+10808,41,1/1/2025,Andrew Fuller,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,38,20,760,60.8,820.8
+10810,73,1/1/2025,Andrew Fuller,13,Konbu,6,Mayumi's,6,7,42,3.36,45.36
+10810,73,1/1/2025,Andrew Fuller,25,NuNuCa Nu-Nougat-Creme,11,Heli Swaren GmbH & Co. KG,14,5,70,5.6,75.6
+10810,73,1/1/2025,Andrew Fuller,70,Outback Lager,7,"Pavlova, Ltd.",15,5,75,6,81
+10815,17,1/5/2025,Andrew Fuller,33,Geitost,15,Norske Meierier,2.5,16,40,3.2,43.2
+10819,77,1/7/2025,Andrew Fuller,43,Ipoh Coffee,20,Leka Trading,46,7,322,25.76,347.76
+10819,77,1/7/2025,Andrew Fuller,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,7.75,20,155,12.4,167.4
+10832,12,1/14/2025,Andrew Fuller,13,Konbu,6,Mayumi's,6,3,18,1.44,19.44
+10832,12,1/14/2025,Andrew Fuller,25,NuNuCa Nu-Nougat-Creme,11,Heli Swaren GmbH & Co. KG,14,10,140,11.2,151.2
+10832,12,1/14/2025,Andrew Fuller,44,Gula Malacca,20,Leka Trading,19.45,16,311.2,24.9,336.1
+10832,12,1/14/2025,Andrew Fuller,64,Wimmers gute Semmelkndel,12,Plutzer Lebensmittelgromrkte AG,33.25,3,99.75,7.98,107.73
+10846,63,1/22/2025,Andrew Fuller,4,Chef Anton's Cajun Seasoning,2,New Orleans Cajun Delights,22,21,462,36.96,498.96
+10846,63,1/22/2025,Andrew Fuller,74,Longlife Tofu,4,Tokyo Traders,10,20,200,16,216
+10858,78,1/29/2025,Andrew Fuller,7,Uncle Bob's Organic Dried Pears,3,Grandma Kelly's Homestead,30,5,150,12,162
+10858,78,1/29/2025,Andrew Fuller,27,Schoggi Schokolade,11,Heli Swaren GmbH & Co. KG,43.9,10,439,35.12,474.12
+10858,78,1/29/2025,Andrew Fuller,70,Outback Lager,7,"Pavlova, Ltd.",15,4,60,4.8,64.8
+10915,4,2/27/2025,Andrew Fuller,17,Alice Mutton,7,"Pavlova, Ltd.",39,10,390,31.2,421.2
+10915,4,2/27/2025,Andrew Fuller,54,Tourtire,25,Ma Maison,7.45,10,74.5,5.96,80.46
+10919,64,3/2/2025,Andrew Fuller,16,Pavlova,7,"Pavlova, Ltd.",17.45,24,418.8,33.5,452.3
+10919,64,3/2/2025,Andrew Fuller,25,NuNuCa Nu-Nougat-Creme,11,Heli Swaren GmbH & Co. KG,14,24,336,26.88,362.88
+10919,64,3/2/2025,Andrew Fuller,40,Boston Crab Meat,19,New England Seafood Cannery,18.4,20,368,29.44,397.44
+10939,2,3/10/2025,Andrew Fuller,2,Chang,1,Exotic Liquids,19,10,190,15.2,205.2
+10949,58,3/13/2025,Andrew Fuller,6,Grandma's Boysenberry Spread,3,Grandma Kelly's Homestead,25,12,300,24,324
+10949,58,3/13/2025,Andrew Fuller,17,Alice Mutton,7,"Pavlova, Ltd.",39,6,234,18.72,252.72
+10967,79,3/23/2025,Andrew Fuller,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",9.2,12,110.4,8.83,119.23
+10971,39,3/24/2025,Andrew Fuller,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,123.79,14,1733.06,138.64,1871.7
+10982,58,3/27/2025,Andrew Fuller,7,Uncle Bob's Organic Dried Pears,3,Grandma Kelly's Homestead,30,20,600,48,648
+10982,58,3/27/2025,Andrew Fuller,43,Ipoh Coffee,20,Leka Trading,46,9,414,33.12,447.12
+10983,17,3/27/2025,Andrew Fuller,57,Ravioli Angelo,26,Pasta Buttini s.r.l.,19.5,15,292.5,23.4,315.9
+10985,31,3/30/2025,Andrew Fuller,18,Carnarvon Tigers,7,"Pavlova, Ltd.",62.5,8,500,40,540
+10989,33,3/31/2025,Andrew Fuller,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',21,15,315,25.2,340.2
+10989,33,3/31/2025,Andrew Fuller,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,4,38.6,3.09,41.69
+10994,21,4/2/2025,Andrew Fuller,59,Raclette Courdavault,28,Gai pturage,55,18,990,79.2,1069.2
+11001,53,4/6/2025,Andrew Fuller,55,Pt chinois,25,Ma Maison,24,6,144,11.52,155.52
+11005,54,4/7/2025,Andrew Fuller,1,Chai,1,Exotic Liquids,18,2,36,2.88,38.88
+11005,54,4/7/2025,Andrew Fuller,59,Raclette Courdavault,28,Gai pturage,55,10,550,44,594
+11009,51,4/8/2025,Andrew Fuller,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,12,54,4.32,58.32
+11009,51,4/8/2025,Andrew Fuller,36,Inlagd Sill,17,Svensk Sjfda AB,19,18,342,27.36,369.36
+11009,51,4/8/2025,Andrew Fuller,60,Camembert Pierrot,28,Gai pturage,34,9,306,24.48,330.48
+11010,30,4/9/2025,Andrew Fuller,7,Uncle Bob's Organic Dried Pears,3,Grandma Kelly's Homestead,30,20,600,48,648
+11010,30,4/9/2025,Andrew Fuller,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,10,45,3.6,48.6
+11013,5,4/9/2025,Andrew Fuller,23,Tunnbrd,9,PB Knckebrd AB,9,10,90,7.2,97.2
+11013,5,4/9/2025,Andrew Fuller,42,Singaporean Hokkien Fried Mee,20,Leka Trading,14,4,56,4.48,60.48
+11013,5,4/9/2025,Andrew Fuller,45,Rogede sild,21,Lyngbysild,9.5,20,190,15.2,205.2
+11013,5,4/9/2025,Andrew Fuller,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",12.5,2,25,2,27
+11015,16,4/10/2025,Andrew Fuller,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,25.89,15,388.35,31.07,419.42
+11015,16,4/10/2025,Andrew Fuller,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,13,18,234,18.72,252.72
+11020,26,4/14/2025,Andrew Fuller,10,Ikura,4,Tokyo Traders,31,24,744,59.52,803.52
+11028,8,4/16/2025,Andrew Fuller,59,Raclette Courdavault,28,Gai pturage,55,24,1320,105.6,1425.6
+11035,63,4/20/2025,Andrew Fuller,1,Chai,1,Exotic Liquids,18,10,180,14.4,194.4
+11035,63,4/20/2025,Andrew Fuller,54,Tourtire,25,Ma Maison,7.45,10,74.5,5.96,80.46
+11042,57,4/22/2025,Andrew Fuller,44,Gula Malacca,20,Leka Trading,19.45,15,291.75,23.34,315.09
+11042,57,4/22/2025,Andrew Fuller,61,Sirop d'rable,29,Forts d'rables,28.5,4,114,9.12,123.12
+11053,74,4/27/2025,Andrew Fuller,32,Mascarpone Fabioli,14,Formaggi Fortini s.r.l.,32,20,640,51.2,691.2
+11059,48,4/29/2025,Andrew Fuller,17,Alice Mutton,7,"Pavlova, Ltd.",39,12,468,37.44,505.44
+11060,44,4/30/2025,Andrew Fuller,60,Camembert Pierrot,28,Gai pturage,34,4,136,10.88,146.88
+11060,44,4/30/2025,Andrew Fuller,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,13,10,130,10.4,140.4
+11070,80,5/5/2025,Andrew Fuller,2,Chang,1,Exotic Liquids,19,20,380,30.4,410.4
+11070,80,5/5/2025,Andrew Fuller,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,20,250,20,270
+11073,61,5/5/2025,Andrew Fuller,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',21,10,210,16.8,226.8
+11073,61,5/5/2025,Andrew Fuller,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,20,90,7.2,97.2
+10251,29,7/8/2023,Janet Leverling,22,Gustaf's Knckebrd,9,PB Knckebrd AB,16.8,6,100.8,8.06,108.86
+10251,29,7/8/2023,Janet Leverling,57,Ravioli Angelo,26,Pasta Buttini s.r.l.,15.6,15,234,18.72,252.72
+10251,29,7/8/2023,Janet Leverling,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,16.8,20,336,26.88,362.88
+10253,42,7/10/2023,Janet Leverling,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,10,20,200,16,216
+10256,52,7/15/2023,Janet Leverling,53,Perth Pasties,24,"G'day, Mate",26.2,15,393,31.44,424.44
+10256,52,7/15/2023,Janet Leverling,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,10.4,12,124.8,9.98,134.78
+10266,71,7/26/2023,Janet Leverling,12,Queso Manchego La Pastora,5,Cooperativa de Quesos 'Las Cabras',30.4,12,364.8,29.18,393.98
+10273,59,8/5/2023,Janet Leverling,10,Ikura,4,Tokyo Traders,24.8,24,595.2,47.62,642.82
+10273,59,8/5/2023,Janet Leverling,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,10,15,150,12,162
+10273,59,8/5/2023,Janet Leverling,33,Geitost,15,Norske Meierier,2,20,40,3.2,43.2
+10283,10,8/16/2023,Janet Leverling,15,Genen Shouyu,6,Mayumi's,12.4,20,248,19.84,267.84
+10283,10,8/16/2023,Janet Leverling,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",7.3,18,131.4,10.51,141.91
+10283,10,8/16/2023,Janet Leverling,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,27.8,3,83.4,6.67,90.07
+10309,31,9/19/2023,Janet Leverling,4,Chef Anton's Cajun Seasoning,2,New Orleans Cajun Delights,17.6,20,352,28.16,380.16
+10309,31,9/19/2023,Janet Leverling,42,Singaporean Hokkien Fried Mee,20,Leka Trading,11.2,2,22.4,1.79,24.19
+10309,31,9/19/2023,Janet Leverling,43,Ipoh Coffee,20,Leka Trading,36.8,20,736,58.88,794.88
+10309,31,9/19/2023,Janet Leverling,71,Flotemysost,15,Norske Meierier,17.2,3,51.6,4.13,55.73
+10321,23,10/3/2023,Janet Leverling,35,Steeleye Stout,16,Bigfoot Breweries,14.4,10,144,11.52,155.52
+10332,35,10/17/2023,Janet Leverling,42,Singaporean Hokkien Fried Mee,20,Leka Trading,11.2,10,112,8.96,120.96
+10332,35,10/17/2023,Janet Leverling,47,Zaanse koeken,22,Zaanse Snoepfabriek,7.6,16,121.6,9.73,131.33
+10346,7,11/5/2023,Janet Leverling,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,30.4,20,608,48.64,656.64
+10352,34,11/12/2023,Janet Leverling,24,Guaran Fantstica,10,Refrescos Americanas LTDA,3.6,10,36,2.88,38.88
+10352,34,11/12/2023,Janet Leverling,54,Tourtire,25,Ma Maison,5.9,20,118,9.44,127.44
+10362,9,11/25/2023,Janet Leverling,51,Manjimup Dried Apples,24,"G'day, Mate",42.4,20,848,67.84,915.84
+10362,9,11/25/2023,Janet Leverling,54,Tourtire,25,Ma Maison,5.9,24,141.6,11.33,152.93
+10365,40,11/27/2023,Janet Leverling,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',16.8,24,403.2,32.26,435.46
+10375,18,12/6/2023,Janet Leverling,14,Tofu,6,Mayumi's,18.6,15,279,22.32,301.32
+10375,18,12/6/2023,Janet Leverling,54,Tourtire,25,Ma Maison,5.9,10,59,4.72,63.72
+10381,10,12/12/2023,Janet Leverling,74,Longlife Tofu,4,Tokyo Traders,8,14,112,8.96,120.96
+10384,27,12/16/2023,Janet Leverling,60,Camembert Pierrot,28,Gai pturage,27.2,15,408,32.64,440.64
+10391,49,12/23/2023,Janet Leverling,13,Konbu,6,Mayumi's,4.8,18,86.4,6.91,93.31
+10409,81,1/9/2024,Janet Leverling,14,Tofu,6,Mayumi's,18.6,12,223.2,17.86,241.06
+10409,81,1/9/2024,Janet Leverling,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",8,12,96,7.68,103.68
+10410,58,1/10/2024,Janet Leverling,59,Raclette Courdavault,28,Gai pturage,44,16,704,56.32,760.32
+10413,12,1/14/2024,Janet Leverling,1,Chai,1,Exotic Liquids,14.4,24,345.6,27.65,373.25
+10413,12,1/14/2024,Janet Leverling,76,Lakkalikri,23,Karkki Oy,14.4,14,201.6,16.13,217.73
+10415,18,1/15/2024,Janet Leverling,17,Alice Mutton,7,"Pavlova, Ltd.",31.2,2,62.4,4.99,67.39
+10415,18,1/15/2024,Janet Leverling,33,Geitost,15,Norske Meierier,2,20,40,3.2,43.2
+10420,52,1/21/2024,Janet Leverling,9,Mishi Kobe Niku,4,Tokyo Traders,77.6,20,1552,124.16,1676.16
+10420,52,1/21/2024,Janet Leverling,13,Konbu,6,Mayumi's,4.8,2,9.6,0.77,10.37
+10420,52,1/21/2024,Janet Leverling,70,Outback Lager,7,"Pavlova, Ltd.",12,8,96,7.68,103.68
+10420,52,1/21/2024,Janet Leverling,73,Rd Kaviar,17,Svensk Sjfda AB,12,20,240,19.2,259.2
+10432,15,1/31/2024,Janet Leverling,26,Gumbr Gummibrchen,11,Heli Swaren GmbH & Co. KG,24.9,10,249,19.92,268.92
+10434,53,2/3/2024,Janet Leverling,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',16.8,6,100.8,8.06,108.86
+10434,53,2/3/2024,Janet Leverling,76,Lakkalikri,23,Karkki Oy,14.4,18,259.2,20.74,279.94
+10436,65,2/5/2024,Janet Leverling,46,Spegesild,21,Lyngbysild,9.6,5,48,3.84,51.84
+10436,65,2/5/2024,Janet Leverling,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,6.2,24,148.8,11.9,160.7
+10438,79,2/6/2024,Janet Leverling,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",7.3,15,109.5,8.76,118.26
+10438,79,2/6/2024,Janet Leverling,34,Sasquatch Ale,16,Bigfoot Breweries,11.2,20,224,17.92,241.92
+10438,79,2/6/2024,Janet Leverling,57,Ravioli Angelo,26,Pasta Buttini s.r.l.,15.6,15,234,18.72,252.72
+10444,27,2/12/2024,Janet Leverling,17,Alice Mutton,7,"Pavlova, Ltd.",31.2,10,312,24.96,336.96
+10444,27,2/12/2024,Janet Leverling,26,Gumbr Gummibrchen,11,Heli Swaren GmbH & Co. KG,24.9,15,373.5,29.88,403.38
+10444,27,2/12/2024,Janet Leverling,35,Steeleye Stout,16,Bigfoot Breweries,14.4,8,115.2,9.22,124.42
+10445,27,2/13/2024,Janet Leverling,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,14.4,6,86.4,6.91,93.31
+10445,27,2/13/2024,Janet Leverling,54,Tourtire,25,Ma Maison,5.9,15,88.5,7.08,95.58
+10449,65,2/18/2024,Janet Leverling,10,Ikura,4,Tokyo Traders,24.8,14,347.2,27.78,374.98
+10449,65,2/18/2024,Janet Leverling,52,Filo Mix,24,"G'day, Mate",5.6,20,112,8.96,120.96
+10468,8,3/7/2024,Janet Leverling,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,20.7,8,165.6,13.25,178.85
+10468,8,3/7/2024,Janet Leverling,43,Ipoh Coffee,20,Leka Trading,36.8,15,552,44.16,596.16
+10484,62,3/24/2024,Janet Leverling,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",8,14,112,8.96,120.96
+10484,62,3/24/2024,Janet Leverling,40,Boston Crab Meat,19,New England Seafood Cannery,14.7,10,147,11.76,158.76
+10484,62,3/24/2024,Janet Leverling,51,Manjimup Dried Apples,24,"G'day, Mate",42.4,3,127.2,10.18,137.38
+10492,58,4/1/2024,Janet Leverling,42,Singaporean Hokkien Fried Mee,20,Leka Trading,11.2,20,224,17.92,241.92
+10495,73,4/3/2024,Janet Leverling,23,Tunnbrd,9,PB Knckebrd AB,7.2,10,72,5.76,77.76
+10495,73,4/3/2024,Janet Leverling,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,7.7,20,154,12.32,166.32
+10495,73,4/3/2024,Janet Leverling,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,10.4,5,52,4.16,56.16
+10505,35,4/14/2024,Janet Leverling,62,Tarte au sucre,29,Forts d'rables,49.3,3,147.9,11.83,159.73
+10517,76,4/24/2024,Janet Leverling,52,Filo Mix,24,"G'day, Mate",7,6,42,3.36,45.36
+10517,76,4/24/2024,Janet Leverling,59,Raclette Courdavault,28,Gai pturage,55,4,220,17.6,237.6
+10517,76,4/24/2024,Janet Leverling,70,Outback Lager,7,"Pavlova, Ltd.",15,6,90,7.2,97.2
+10530,74,5/8/2024,Janet Leverling,61,Sirop d'rable,29,Forts d'rables,28.5,20,570,45.6,615.6
+10536,80,5/14/2024,Janet Leverling,12,Queso Manchego La Pastora,5,Cooperativa de Quesos 'Las Cabras',38,15,570,45.6,615.6
+10536,80,5/14/2024,Janet Leverling,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,20,250,20,270
+10547,14,5/23/2024,Janet Leverling,32,Mascarpone Fabioli,14,Formaggi Fortini s.r.l.,32,24,768,61.44,829.44
+10548,79,5/26/2024,Janet Leverling,34,Sasquatch Ale,16,Bigfoot Breweries,14,10,140,11.2,151.2
+10548,79,5/26/2024,Janet Leverling,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,14,135.1,10.81,145.91
+10568,56,6/13/2024,Janet Leverling,10,Ikura,4,Tokyo Traders,31,5,155,12.4,167.4
+10570,35,6/17/2024,Janet Leverling,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',21,15,315,25.2,340.2
+10572,27,6/18/2024,Janet Leverling,16,Pavlova,7,"Pavlova, Ltd.",17.45,12,209.4,16.75,226.15
+10572,27,6/18/2024,Janet Leverling,32,Mascarpone Fabioli,14,Formaggi Fortini s.r.l.,32,10,320,25.6,345.6
+10572,27,6/18/2024,Janet Leverling,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,7.75,15,116.25,9.3,125.55
+10576,4,6/23/2024,Janet Leverling,1,Chai,1,Exotic Liquids,18,10,180,14.4,194.4
+10576,4,6/23/2024,Janet Leverling,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,20,250,20,270
+10576,4,6/23/2024,Janet Leverling,44,Gula Malacca,20,Leka Trading,19.45,21,408.45,32.68,441.13
+10582,82,6/27/2024,Janet Leverling,57,Ravioli Angelo,26,Pasta Buttini s.r.l.,19.5,4,78,6.24,84.24
+10582,82,6/27/2024,Janet Leverling,76,Lakkalikri,23,Karkki Oy,18,14,252,20.16,272.16
+10592,80,7/8/2024,Janet Leverling,26,Gumbr Gummibrchen,11,Heli Swaren GmbH & Co. KG,31.23,5,156.15,12.49,168.64
+10594,41,7/9/2024,Janet Leverling,52,Filo Mix,24,"G'day, Mate",7,24,168,13.44,181.44
+10625,83,8/8/2024,Janet Leverling,14,Tofu,6,Mayumi's,23.25,3,69.75,5.58,75.33
+10625,83,8/8/2024,Janet Leverling,42,Singaporean Hokkien Fried Mee,20,Leka Trading,14,5,70,5.6,75.6
+10625,83,8/8/2024,Janet Leverling,60,Camembert Pierrot,28,Gai pturage,34,10,340,27.2,367.2
+10638,64,8/20/2024,Janet Leverling,45,Rogede sild,21,Lyngbysild,9.5,20,190,15.2,205.2
+10638,64,8/20/2024,Janet Leverling,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,21.05,21,442.05,35.36,477.41
+10644,52,8/25/2024,Janet Leverling,18,Carnarvon Tigers,7,"Pavlova, Ltd.",62.5,4,250,20,270
+10644,52,8/25/2024,Janet Leverling,43,Ipoh Coffee,20,Leka Trading,46,20,920,73.6,993.6
+10644,52,8/25/2024,Janet Leverling,46,Spegesild,21,Lyngbysild,12,21,252,20.16,272.16
+10662,37,9/9/2024,Janet Leverling,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",12.5,10,125,10,135
+10681,36,9/25/2024,Janet Leverling,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",10,12,120,9.6,129.6
+10682,40,9/25/2024,Janet Leverling,66,Louisiana Hot Spiced Okra,2,New Orleans Cajun Delights,17,4,68,5.44,73.44
+10684,26,9/26/2024,Janet Leverling,40,Boston Crab Meat,19,New England Seafood Cannery,18.4,20,368,29.44,397.44
+10693,22,10/6/2024,Janet Leverling,9,Mishi Kobe Niku,4,Tokyo Traders,97,6,582,46.56,628.56
+10693,22,10/6/2024,Janet Leverling,73,Rd Kaviar,17,Svensk Sjfda AB,15,15,225,18,243
+10697,64,10/8/2024,Janet Leverling,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",9.2,7,64.4,5.15,69.55
+10697,64,10/8/2024,Janet Leverling,35,Steeleye Stout,16,Bigfoot Breweries,18,9,162,12.96,174.96
+10699,66,10/9/2024,Janet Leverling,47,Zaanse koeken,22,Zaanse Snoepfabriek,9.5,12,114,9.12,123.12
+10700,17,10/10/2024,Janet Leverling,1,Chai,1,Exotic Liquids,18,5,90,7.2,97.2
+10700,17,10/10/2024,Janet Leverling,34,Sasquatch Ale,16,Bigfoot Breweries,14,12,168,13.44,181.44
+10712,31,10/21/2024,Janet Leverling,53,Perth Pasties,24,"G'day, Mate",32.8,3,98.4,7.87,106.27
+10715,9,10/23/2024,Janet Leverling,10,Ikura,4,Tokyo Traders,31,21,651,52.08,703.08
+10723,22,10/30/2024,Janet Leverling,26,Gumbr Gummibrchen,11,Heli Swaren GmbH & Co. KG,31.23,15,468.45,37.48,505.93
+10732,9,11/6/2024,Janet Leverling,76,Lakkalikri,23,Karkki Oy,18,20,360,28.8,388.8
+10739,67,11/12/2024,Janet Leverling,36,Inlagd Sill,17,Svensk Sjfda AB,19,6,114,9.12,123.12
+10739,67,11/12/2024,Janet Leverling,52,Filo Mix,24,"G'day, Mate",7,18,126,10.08,136.08
+10742,58,11/14/2024,Janet Leverling,3,Aniseed Syrup,1,Exotic Liquids,10,20,200,16,216
+10751,28,11/24/2024,Janet Leverling,26,Gumbr Gummibrchen,11,Heli Swaren GmbH & Co. KG,31.23,12,374.76,29.98,404.74
+10751,28,11/24/2024,Janet Leverling,50,Valkoinen suklaa,23,Karkki Oy,16.25,20,325,26,351
+10751,28,11/24/2024,Janet Leverling,73,Rd Kaviar,17,Svensk Sjfda AB,15,15,225,18,243
+10753,44,11/25/2024,Janet Leverling,45,Rogede sild,21,Lyngbysild,9.5,4,38,3.04,41.04
+10753,44,11/25/2024,Janet Leverling,74,Longlife Tofu,4,Tokyo Traders,10,5,50,4,54
+10758,28,11/28/2024,Janet Leverling,26,Gumbr Gummibrchen,11,Heli Swaren GmbH & Co. KG,31.23,20,624.6,49.97,674.57
+10759,83,11/28/2024,Janet Leverling,32,Mascarpone Fabioli,14,Formaggi Fortini s.r.l.,32,10,320,25.6,345.6
+10762,53,12/2/2024,Janet Leverling,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,18,16,288,23.04,311.04
+10763,47,12/3/2024,Janet Leverling,22,Gustaf's Knckebrd,9,PB Knckebrd AB,21,6,126,10.08,136.08
+10763,47,12/3/2024,Janet Leverling,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,20,90,7.2,97.2
+10768,20,12/8/2024,Janet Leverling,22,Gustaf's Knckebrd,9,PB Knckebrd AB,21,4,84,6.72,90.72
+10768,20,12/8/2024,Janet Leverling,60,Camembert Pierrot,28,Gai pturage,34,15,510,40.8,550.8
+10768,20,12/8/2024,Janet Leverling,71,Flotemysost,15,Norske Meierier,21.5,12,258,20.64,278.64
+10769,21,12/8/2024,Janet Leverling,52,Filo Mix,24,"G'day, Mate",7,15,105,8.4,113.4
+10769,21,12/8/2024,Janet Leverling,61,Sirop d'rable,29,Forts d'rables,28.5,20,570,45.6,615.6
+10769,21,12/8/2024,Janet Leverling,62,Tarte au sucre,29,Forts d'rables,49.3,15,739.5,59.16,798.66
+10772,80,12/10/2024,Janet Leverling,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,123.79,18,2228.22,178.26,2406.48
+10778,27,12/16/2024,Janet Leverling,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,10,96.5,7.72,104.22
+10779,66,12/16/2024,Janet Leverling,16,Pavlova,7,"Pavlova, Ltd.",17.45,20,349,27.92,376.92
+10779,66,12/16/2024,Janet Leverling,62,Tarte au sucre,29,Forts d'rables,49.3,20,986,78.88,1064.88
+10793,20,12/24/2024,Janet Leverling,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,14,135.1,10.81,145.91
+10793,20,12/24/2024,Janet Leverling,52,Filo Mix,24,"G'day, Mate",7,8,56,4.48,60.48
+10796,25,12/25/2024,Janet Leverling,26,Gumbr Gummibrchen,11,Heli Swaren GmbH & Co. KG,31.23,21,655.83,52.47,708.3
+10796,25,12/25/2024,Janet Leverling,44,Gula Malacca,20,Leka Trading,19.45,10,194.5,15.56,210.06
+10796,25,12/25/2024,Janet Leverling,69,Gudbrandsdalsost,15,Norske Meierier,36,24,864,69.12,933.12
+10806,29,12/31/2024,Janet Leverling,2,Chang,1,Exotic Liquids,19,20,380,30.4,410.4
+10806,29,12/31/2024,Janet Leverling,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,21.05,2,42.1,3.37,45.47
+10806,29,12/31/2024,Janet Leverling,74,Longlife Tofu,4,Tokyo Traders,10,15,150,12,162
+10814,29,1/5/2025,Janet Leverling,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,20,193,15.44,208.44
+10814,29,1/5/2025,Janet Leverling,43,Ipoh Coffee,20,Leka Trading,46,20,920,73.6,993.6
+10814,29,1/5/2025,Janet Leverling,48,Chocolade,22,Zaanse Snoepfabriek,12.75,8,102,8.16,110.16
+10831,16,1/14/2025,Janet Leverling,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",9.2,2,18.4,1.47,19.87
+10831,16,1/14/2025,Janet Leverling,35,Steeleye Stout,16,Bigfoot Breweries,18,8,144,11.52,155.52
+10831,16,1/14/2025,Janet Leverling,38,Cte de Blaye,18,Aux joyeux ecclsiastiques,263.5,8,2108,168.64,2276.64
+10831,16,1/14/2025,Janet Leverling,43,Ipoh Coffee,20,Leka Trading,46,9,414,33.12,447.12
+10838,64,1/19/2025,Janet Leverling,1,Chai,1,Exotic Liquids,18,4,72,5.76,77.76
+10839,3,1/19/2025,Janet Leverling,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,34.8,15,522,41.76,563.76
+10855,41,1/27/2025,Janet Leverling,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,14,175,14,189
+10855,41,1/27/2025,Janet Leverling,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,38,24,912,72.96,984.96
+10855,41,1/27/2025,Janet Leverling,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,21.05,15,315.75,25.26,341.01
+10856,40,1/28/2025,Janet Leverling,2,Chang,1,Exotic Liquids,19,20,380,30.4,410.4
+10856,40,1/28/2025,Janet Leverling,42,Singaporean Hokkien Fried Mee,20,Leka Trading,14,20,280,22.4,302.4
+10860,39,1/29/2025,Janet Leverling,51,Manjimup Dried Apples,24,"G'day, Mate",53,3,159,12.72,171.72
+10860,39,1/29/2025,Janet Leverling,76,Lakkalikri,23,Karkki Oy,18,20,360,28.8,388.8
+10879,54,2/10/2025,Janet Leverling,40,Boston Crab Meat,19,New England Seafood Cannery,18.4,12,220.8,17.66,238.46
+10879,54,2/10/2025,Janet Leverling,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,21.05,10,210.5,16.84,227.34
+10879,54,2/10/2025,Janet Leverling,76,Lakkalikri,23,Karkki Oy,18,10,180,14.4,194.4
+10903,42,2/24/2025,Janet Leverling,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,21.05,21,442.05,35.36,477.41
+10903,42,2/24/2025,Janet Leverling,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",12.5,20,250,20,270
+10904,22,2/24/2025,Janet Leverling,58,Escargots de Bourgogne,27,Escargots Nouveaux,13.25,15,198.75,15.9,214.65
+10911,51,2/26/2025,Janet Leverling,1,Chai,1,Exotic Liquids,18,10,180,14.4,194.4
+10911,51,2/26/2025,Janet Leverling,17,Alice Mutton,7,"Pavlova, Ltd.",39,12,468,37.44,505.44
+10911,51,2/26/2025,Janet Leverling,67,Laughing Lumberjack Lager,16,Bigfoot Breweries,14,15,210,16.8,226.8
+10924,27,3/4/2025,Janet Leverling,10,Ikura,4,Tokyo Traders,31,20,620,49.6,669.6
+10924,27,3/4/2025,Janet Leverling,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,7.75,6,46.5,3.72,50.22
+10925,42,3/4/2025,Janet Leverling,52,Filo Mix,24,"G'day, Mate",7,12,84,6.72,90.72
+10934,80,3/9/2025,Janet Leverling,6,Grandma's Boysenberry Spread,3,Grandma Kelly's Homestead,25,20,500,40,540
+10938,59,3/10/2025,Janet Leverling,13,Konbu,6,Mayumi's,6,20,120,9.6,129.6
+10938,59,3/10/2025,Janet Leverling,43,Ipoh Coffee,20,Leka Trading,46,24,1104,88.32,1192.32
+10947,62,3/13/2025,Janet Leverling,59,Raclette Courdavault,28,Gai pturage,55,4,220,17.6,237.6
+10948,51,3/13/2025,Janet Leverling,50,Valkoinen suklaa,23,Karkki Oy,16.25,9,146.25,11.7,157.95
+10948,51,3/13/2025,Janet Leverling,55,Pt chinois,25,Ma Maison,24,4,96,7.68,103.68
+10960,25,3/19/2025,Janet Leverling,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,10,45,3.6,48.6
+10960,25,3/19/2025,Janet Leverling,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,24,231.6,18.53,250.13
+10964,75,3/20/2025,Janet Leverling,18,Carnarvon Tigers,7,"Pavlova, Ltd.",62.5,6,375,30,405
+10964,75,3/20/2025,Janet Leverling,38,Cte de Blaye,18,Aux joyeux ecclsiastiques,263.5,5,1317.5,105.4,1422.9
+10964,75,3/20/2025,Janet Leverling,69,Gudbrandsdalsost,15,Norske Meierier,36,10,360,28.8,388.8
+10974,15,3/25/2025,Janet Leverling,63,Vegie-spread,7,"Pavlova, Ltd.",43.9,10,439,35.12,474.12
+11003,84,4/6/2025,Janet Leverling,1,Chai,1,Exotic Liquids,18,4,72,5.76,77.76
+11003,84,4/6/2025,Janet Leverling,40,Boston Crab Meat,19,New England Seafood Cannery,18.4,10,184,14.72,198.72
+11003,84,4/6/2025,Janet Leverling,52,Filo Mix,24,"G'day, Mate",7,10,70,5.6,75.6
+11004,85,4/7/2025,Janet Leverling,26,Gumbr Gummibrchen,11,Heli Swaren GmbH & Co. KG,31.23,6,187.38,14.99,202.37
+11004,85,4/7/2025,Janet Leverling,76,Lakkalikri,23,Karkki Oy,18,6,108,8.64,116.64
+11006,36,4/7/2025,Janet Leverling,1,Chai,1,Exotic Liquids,18,8,144,11.52,155.52
+11006,36,4/7/2025,Janet Leverling,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,123.79,2,247.58,19.81,267.39
+11011,50,4/9/2025,Janet Leverling,71,Flotemysost,15,Norske Meierier,21.5,20,430,34.4,464.4
+11021,59,4/14/2025,Janet Leverling,2,Chang,1,Exotic Liquids,19,11,209,16.72,225.72
+11021,59,4/14/2025,Janet Leverling,20,Sir Rodney's Marmalade,8,"Specialty Biscuits, Ltd.",81,15,1215,97.2,1312.2
+11049,43,4/24/2025,Janet Leverling,2,Chang,1,Exotic Liquids,19,10,190,15.2,205.2
+11049,43,4/24/2025,Janet Leverling,12,Queso Manchego La Pastora,5,Cooperativa de Quesos 'Las Cabras',38,4,152,12.16,164.16
+11052,42,4/27/2025,Janet Leverling,61,Sirop d'rable,29,Forts d'rables,28.5,10,285,22.8,307.8
+11057,76,4/29/2025,Janet Leverling,70,Outback Lager,7,"Pavlova, Ltd.",15,3,45,3.6,48.6
+10250,42,7/8/2023,Margaret Peacock,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,7.7,10,77,6.16,83.16
+10250,42,7/8/2023,Margaret Peacock,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,16.8,15,252,20.16,272.16
+10257,25,7/16/2023,Margaret Peacock,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,14.4,6,86.4,6.91,93.31
+10257,25,7/16/2023,Margaret Peacock,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,10.4,15,156,12.48,168.48
+10259,86,7/18/2023,Margaret Peacock,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",8,10,80,6.4,86.4
+10259,86,7/18/2023,Margaret Peacock,37,Gravad lax,17,Svensk Sjfda AB,20.8,1,20.8,1.66,22.46
+10260,26,7/19/2023,Margaret Peacock,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,7.7,16,123.2,9.86,133.06
+10260,26,7/19/2023,Margaret Peacock,62,Tarte au sucre,29,Forts d'rables,39.4,15,591,47.28,638.28
+10260,26,7/19/2023,Margaret Peacock,70,Outback Lager,7,"Pavlova, Ltd.",12,21,252,20.16,272.16
+10261,33,7/19/2023,Margaret Peacock,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",8,20,160,12.8,172.8
+10261,33,7/19/2023,Margaret Peacock,35,Steeleye Stout,16,Bigfoot Breweries,14.4,20,288,23.04,311.04
+10267,19,7/29/2023,Margaret Peacock,76,Lakkalikri,23,Karkki Oy,14.4,15,216,17.28,233.28
+10281,5,8/14/2023,Margaret Peacock,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",7.3,1,7.3,0.58,7.88
+10281,5,8/14/2023,Margaret Peacock,24,Guaran Fantstica,10,Refrescos Americanas LTDA,3.6,6,21.6,1.73,23.33
+10281,5,8/14/2023,Margaret Peacock,35,Steeleye Stout,16,Bigfoot Breweries,14.4,4,57.6,4.61,62.21
+10282,5,8/15/2023,Margaret Peacock,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,20.7,6,124.2,9.94,134.14
+10282,5,8/15/2023,Margaret Peacock,57,Ravioli Angelo,26,Pasta Buttini s.r.l.,15.6,2,31.2,2.5,33.7
+10284,80,8/19/2023,Margaret Peacock,27,Schoggi Schokolade,11,Heli Swaren GmbH & Co. KG,35.1,15,526.5,42.12,568.62
+10284,80,8/19/2023,Margaret Peacock,44,Gula Malacca,20,Leka Trading,15.5,21,325.5,26.04,351.54
+10284,80,8/19/2023,Margaret Peacock,60,Camembert Pierrot,28,Gai pturage,27.2,20,544,43.52,587.52
+10284,80,8/19/2023,Margaret Peacock,67,Laughing Lumberjack Lager,16,Bigfoot Breweries,11.2,5,56,4.48,60.48
+10288,30,8/23/2023,Margaret Peacock,54,Tourtire,25,Ma Maison,5.9,10,59,4.72,63.72
+10288,30,8/23/2023,Margaret Peacock,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",10,3,30,2.4,32.4
+10294,7,8/30/2023,Margaret Peacock,1,Chai,1,Exotic Liquids,14.4,18,259.2,20.74,279.94
+10294,7,8/30/2023,Margaret Peacock,17,Alice Mutton,7,"Pavlova, Ltd.",31.2,15,468,37.44,505.44
+10294,7,8/30/2023,Margaret Peacock,43,Ipoh Coffee,20,Leka Trading,36.8,15,552,44.16,596.16
+10294,7,8/30/2023,Margaret Peacock,60,Camembert Pierrot,28,Gai pturage,27.2,21,571.2,45.7,616.9
+10294,7,8/30/2023,Margaret Peacock,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,6.2,6,37.2,2.98,40.18
+10299,48,9/6/2023,Margaret Peacock,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",7.3,15,109.5,8.76,118.26
+10299,48,9/6/2023,Margaret Peacock,70,Outback Lager,7,"Pavlova, Ltd.",12,20,240,19.2,259.2
+10302,63,9/10/2023,Margaret Peacock,43,Ipoh Coffee,20,Leka Trading,36.8,12,441.6,35.33,476.93
+10315,23,9/26/2023,Margaret Peacock,34,Sasquatch Ale,16,Bigfoot Breweries,11.2,14,156.8,12.54,169.34
+10323,8,10/7/2023,Margaret Peacock,15,Genen Shouyu,6,Mayumi's,12.4,5,62,4.96,66.96
+10323,8,10/7/2023,Margaret Peacock,25,NuNuCa Nu-Nougat-Creme,11,Heli Swaren GmbH & Co. KG,11.2,4,44.8,3.58,48.38
+10323,8,10/7/2023,Margaret Peacock,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,14.4,4,57.6,4.61,62.21
+10326,87,10/10/2023,Margaret Peacock,4,Chef Anton's Cajun Seasoning,2,New Orleans Cajun Delights,17.6,24,422.4,33.79,456.19
+10326,87,10/10/2023,Margaret Peacock,57,Ravioli Angelo,26,Pasta Buttini s.r.l.,15.6,16,249.6,19.97,269.57
+10328,34,10/14/2023,Margaret Peacock,59,Raclette Courdavault,28,Gai pturage,44,9,396,31.68,427.68
+10328,34,10/14/2023,Margaret Peacock,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",10,10,100,8,108
+10329,15,10/15/2023,Margaret Peacock,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",7.3,10,73,5.84,78.84
+10329,15,10/15/2023,Margaret Peacock,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,20.7,8,165.6,13.25,178.85
+10329,15,10/15/2023,Margaret Peacock,38,Cte de Blaye,18,Aux joyeux ecclsiastiques,210.8,20,4216,337.28,4553.28
+10329,15,10/15/2023,Margaret Peacock,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,30.4,12,364.8,29.18,393.98
+10337,19,10/24/2023,Margaret Peacock,26,Gumbr Gummibrchen,11,Heli Swaren GmbH & Co. KG,24.9,24,597.6,47.81,645.41
+10337,19,10/24/2023,Margaret Peacock,36,Inlagd Sill,17,Svensk Sjfda AB,15.2,20,304,24.32,328.32
+10338,41,10/25/2023,Margaret Peacock,17,Alice Mutton,7,"Pavlova, Ltd.",31.2,20,624,49.92,673.92
+10338,41,10/25/2023,Margaret Peacock,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,20.7,15,310.5,24.84,335.34
+10342,19,10/30/2023,Margaret Peacock,2,Chang,1,Exotic Liquids,15.2,24,364.8,29.18,393.98
+10343,80,10/31/2023,Margaret Peacock,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",10,4,40,3.2,43.2
+10343,80,10/31/2023,Margaret Peacock,76,Lakkalikri,23,Karkki Oy,14.4,15,216,17.28,233.28
+10347,68,11/6/2023,Margaret Peacock,25,NuNuCa Nu-Nougat-Creme,11,Heli Swaren GmbH & Co. KG,11.2,10,112,8.96,120.96
+10347,68,11/6/2023,Margaret Peacock,40,Boston Crab Meat,19,New England Seafood Cannery,14.7,4,58.8,4.7,63.5
+10347,68,11/6/2023,Margaret Peacock,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,6.2,6,37.2,2.98,40.18
+10348,38,11/7/2023,Margaret Peacock,1,Chai,1,Exotic Liquids,14.4,15,216,17.28,233.28
+10360,65,11/22/2023,Margaret Peacock,38,Cte de Blaye,18,Aux joyeux ecclsiastiques,210.8,10,2108,168.64,2276.64
+10363,49,11/26/2023,Margaret Peacock,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,10,20,200,16,216
+10363,49,11/26/2023,Margaret Peacock,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,6.2,12,74.4,5.95,80.35
+10363,49,11/26/2023,Margaret Peacock,76,Lakkalikri,23,Karkki Oy,14.4,12,172.8,13.82,186.62
+10382,1,12/13/2023,Margaret Peacock,18,Carnarvon Tigers,7,"Pavlova, Ltd.",50,9,450,36,486
+10382,1,12/13/2023,Margaret Peacock,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,99,14,1386,110.88,1496.88
+10389,58,12/20/2023,Margaret Peacock,10,Ikura,4,Tokyo Traders,24.8,16,396.8,31.74,428.54
+10389,58,12/20/2023,Margaret Peacock,55,Pt chinois,25,Ma Maison,19.2,15,288,23.04,311.04
+10389,58,12/20/2023,Margaret Peacock,62,Tarte au sucre,29,Forts d'rables,39.4,20,788,63.04,851.04
+10403,1,1/3/2024,Margaret Peacock,16,Pavlova,7,"Pavlova, Ltd.",13.9,21,291.9,23.35,315.25
+10417,72,1/16/2024,Margaret Peacock,46,Spegesild,21,Lyngbysild,9.6,2,19.2,1.54,20.74
+10418,59,1/17/2024,Margaret Peacock,61,Sirop d'rable,29,Forts d'rables,22.8,16,364.8,29.18,393.98
+10418,59,1/17/2024,Margaret Peacock,74,Longlife Tofu,4,Tokyo Traders,8,15,120,9.6,129.6
+10419,28,1/20/2024,Margaret Peacock,69,Gudbrandsdalsost,15,Norske Meierier,28.8,20,576,46.08,622.08
+10426,56,1/27/2024,Margaret Peacock,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,30.4,5,152,12.16,164.16
+10426,56,1/27/2024,Margaret Peacock,64,Wimmers gute Semmelkndel,12,Plutzer Lebensmittelgromrkte AG,26.6,7,186.2,14.9,201.1
+10440,17,2/10/2024,Margaret Peacock,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,99,24,2376,190.08,2566.08
+10447,48,2/14/2024,Margaret Peacock,71,Flotemysost,15,Norske Meierier,17.2,2,34.4,2.75,37.15
+10448,55,2/17/2024,Margaret Peacock,26,Gumbr Gummibrchen,11,Heli Swaren GmbH & Co. KG,24.9,6,149.4,11.95,161.35
+10448,55,2/17/2024,Margaret Peacock,40,Boston Crab Meat,19,New England Seafood Cannery,14.7,20,294,23.52,317.52
+10454,12,2/21/2024,Margaret Peacock,16,Pavlova,7,"Pavlova, Ltd.",13.9,20,278,22.24,300.24
+10454,12,2/21/2024,Margaret Peacock,33,Geitost,15,Norske Meierier,2,20,40,3.2,43.2
+10454,12,2/21/2024,Margaret Peacock,46,Spegesild,21,Lyngbysild,9.6,10,96,7.68,103.68
+10459,29,2/27/2024,Margaret Peacock,7,Uncle Bob's Organic Dried Pears,3,Grandma Kelly's Homestead,24,16,384,30.72,414.72
+10459,29,2/27/2024,Margaret Peacock,46,Spegesild,21,Lyngbysild,9.6,20,192,15.36,207.36
+10464,34,3/4/2024,Margaret Peacock,4,Chef Anton's Cajun Seasoning,2,New Orleans Cajun Delights,17.6,16,281.6,22.53,304.13
+10464,34,3/4/2024,Margaret Peacock,43,Ipoh Coffee,20,Leka Trading,36.8,3,110.4,8.83,119.23
+10464,34,3/4/2024,Margaret Peacock,60,Camembert Pierrot,28,Gai pturage,27.2,20,544,43.52,587.52
+10466,57,3/6/2024,Margaret Peacock,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',16.8,10,168,13.44,181.44
+10466,57,3/6/2024,Margaret Peacock,46,Spegesild,21,Lyngbysild,9.6,5,48,3.84,51.84
+10470,9,3/11/2024,Margaret Peacock,23,Tunnbrd,9,PB Knckebrd AB,7.2,15,108,8.64,116.64
+10470,9,3/11/2024,Margaret Peacock,64,Wimmers gute Semmelkndel,12,Plutzer Lebensmittelgromrkte AG,26.6,8,212.8,17.02,229.82
+10485,64,3/25/2024,Margaret Peacock,2,Chang,1,Exotic Liquids,15.2,20,304,24.32,328.32
+10485,64,3/25/2024,Margaret Peacock,3,Aniseed Syrup,1,Exotic Liquids,8,20,160,12.8,172.8
+10493,12,4/2/2024,Margaret Peacock,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,16.8,15,252,20.16,272.16
+10493,12,4/2/2024,Margaret Peacock,66,Louisiana Hot Spiced Okra,2,New Orleans Cajun Delights,13.6,10,136,10.88,146.88
+10493,12,4/2/2024,Margaret Peacock,69,Gudbrandsdalsost,15,Norske Meierier,28.8,10,288,23.04,311.04
+10499,10,4/8/2024,Margaret Peacock,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,45.6,20,912,72.96,984.96
+10504,22,4/11/2024,Margaret Peacock,2,Chang,1,Exotic Liquids,19,12,228,18.24,246.24
+10504,22,4/11/2024,Margaret Peacock,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",10,12,120,9.6,129.6
+10504,22,4/11/2024,Margaret Peacock,53,Perth Pasties,24,"G'day, Mate",32.8,10,328,26.24,354.24
+10509,82,4/17/2024,Margaret Peacock,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,45.6,3,136.8,10.94,147.74
+10511,9,4/18/2024,Margaret Peacock,8,Northwoods Cranberry Sauce,3,Grandma Kelly's Homestead,40,10,400,32,432
+10518,4,4/25/2024,Margaret Peacock,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,5,22.5,1.8,24.3
+10518,4,4/25/2024,Margaret Peacock,38,Cte de Blaye,18,Aux joyeux ecclsiastiques,263.5,15,3952.5,316.2,4268.7
+10518,4,4/25/2024,Margaret Peacock,44,Gula Malacca,20,Leka Trading,19.45,9,175.05,14,189.05
+10522,80,4/30/2024,Margaret Peacock,8,Northwoods Cranberry Sauce,3,Grandma Kelly's Homestead,40,24,960,76.8,1036.8
+10522,80,4/30/2024,Margaret Peacock,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,25.89,20,517.8,41.42,559.22
+10526,71,5/5/2024,Margaret Peacock,1,Chai,1,Exotic Liquids,18,8,144,11.52,155.52
+10526,71,5/5/2024,Margaret Peacock,13,Konbu,6,Mayumi's,6,10,60,4.8,64.8
+10535,40,5/13/2024,Margaret Peacock,40,Boston Crab Meat,19,New England Seafood Cannery,18.4,10,184,14.72,198.72
+10535,40,5/13/2024,Margaret Peacock,57,Ravioli Angelo,26,Pasta Buttini s.r.l.,19.5,5,97.5,7.8,105.3
+10535,40,5/13/2024,Margaret Peacock,59,Raclette Courdavault,28,Gai pturage,55,15,825,66,891
+10544,37,5/21/2024,Margaret Peacock,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,45.6,7,319.2,25.54,344.74
+10544,37,5/21/2024,Margaret Peacock,67,Laughing Lumberjack Lager,16,Bigfoot Breweries,14,7,98,7.84,105.84
+10551,34,5/28/2024,Margaret Peacock,35,Steeleye Stout,16,Bigfoot Breweries,18,20,360,28.8,388.8
+10554,26,5/30/2024,Margaret Peacock,23,Tunnbrd,9,PB Knckebrd AB,9,20,180,14.4,194.4
+10554,26,5/30/2024,Margaret Peacock,62,Tarte au sucre,29,Forts d'rables,49.3,20,986,78.88,1064.88
+10554,26,5/30/2024,Margaret Peacock,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,13,10,130,10.4,140.4
+10564,7,6/10/2024,Margaret Peacock,17,Alice Mutton,7,"Pavlova, Ltd.",39,16,624,49.92,673.92
+10564,7,6/10/2024,Margaret Peacock,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,6,75,6,81
+10574,88,6/19/2024,Margaret Peacock,33,Geitost,15,Norske Meierier,2.5,14,35,2.8,37.8
+10574,88,6/19/2024,Margaret Peacock,40,Boston Crab Meat,19,New England Seafood Cannery,18.4,2,36.8,2.94,39.74
+10574,88,6/19/2024,Margaret Peacock,62,Tarte au sucre,29,Forts d'rables,49.3,10,493,39.44,532.44
+10574,88,6/19/2024,Margaret Peacock,64,Wimmers gute Semmelkndel,12,Plutzer Lebensmittelgromrkte AG,33.25,6,199.5,15.96,215.46
+10578,62,6/24/2024,Margaret Peacock,35,Steeleye Stout,16,Bigfoot Breweries,18,20,360,28.8,388.8
+10578,62,6/24/2024,Margaret Peacock,57,Ravioli Angelo,26,Pasta Buttini s.r.l.,19.5,6,117,9.36,126.36
+10580,26,6/26/2024,Margaret Peacock,14,Tofu,6,Mayumi's,23.25,15,348.75,27.9,376.65
+10580,26,6/26/2024,Margaret Peacock,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,9,86.85,6.95,93.8
+10590,35,7/7/2024,Margaret Peacock,1,Chai,1,Exotic Liquids,18,20,360,28.8,388.8
+10600,18,7/16/2024,Margaret Peacock,54,Tourtire,25,Ma Maison,7.45,4,29.8,2.38,32.18
+10606,3,7/22/2024,Margaret Peacock,4,Chef Anton's Cajun Seasoning,2,New Orleans Cajun Delights,22,20,440,35.2,475.2
+10606,3,7/22/2024,Margaret Peacock,55,Pt chinois,25,Ma Maison,24,20,480,38.4,518.4
+10606,3,7/22/2024,Margaret Peacock,62,Tarte au sucre,29,Forts d'rables,49.3,10,493,39.44,532.44
+10613,25,7/29/2024,Margaret Peacock,13,Konbu,6,Mayumi's,6,8,48,3.84,51.84
+10621,23,8/5/2024,Margaret Peacock,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",9.2,5,46,3.68,49.68
+10621,23,8/5/2024,Margaret Peacock,23,Tunnbrd,9,PB Knckebrd AB,9,10,90,7.2,97.2
+10621,23,8/5/2024,Margaret Peacock,70,Outback Lager,7,"Pavlova, Ltd.",15,20,300,24,324
+10621,23,8/5/2024,Margaret Peacock,71,Flotemysost,15,Norske Meierier,21.5,15,322.5,25.8,348.3
+10622,48,8/6/2024,Margaret Peacock,2,Chang,1,Exotic Liquids,19,20,380,30.4,410.4
+10622,48,8/6/2024,Margaret Peacock,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",12.5,18,225,18,243
+10624,84,8/7/2024,Margaret Peacock,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,45.6,10,456,36.48,492.48
+10624,84,8/7/2024,Margaret Peacock,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,123.79,6,742.74,59.42,802.16
+10624,84,8/7/2024,Margaret Peacock,44,Gula Malacca,20,Leka Trading,19.45,10,194.5,15.56,210.06
+10629,51,8/12/2024,Margaret Peacock,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,123.79,20,2475.8,198.06,2673.86
+10629,51,8/12/2024,Margaret Peacock,64,Wimmers gute Semmelkndel,12,Plutzer Lebensmittelgromrkte AG,33.25,9,299.25,23.94,323.19
+10634,47,8/15/2024,Margaret Peacock,51,Manjimup Dried Apples,24,"G'day, Mate",53,15,795,63.6,858.6
+10634,47,8/15/2024,Margaret Peacock,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,7.75,2,15.5,1.24,16.74
+10636,71,8/19/2024,Margaret Peacock,58,Escargots de Bourgogne,27,Escargots Nouveaux,13.25,6,79.5,6.36,85.86
+10640,38,8/21/2024,Margaret Peacock,69,Gudbrandsdalsost,15,Norske Meierier,36,20,720,57.6,777.6
+10640,38,8/21/2024,Margaret Peacock,70,Outback Lager,7,"Pavlova, Ltd.",15,15,225,18,243
+10645,42,8/26/2024,Margaret Peacock,18,Carnarvon Tigers,7,"Pavlova, Ltd.",62.5,20,1250,100,1350
+10645,42,8/26/2024,Margaret Peacock,36,Inlagd Sill,17,Svensk Sjfda AB,19,15,285,22.8,307.8
+10647,33,8/27/2024,Margaret Peacock,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,18,20,360,28.8,388.8
+10652,43,9/1/2024,Margaret Peacock,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,25.89,2,51.78,4.14,55.92
+10652,43,9/1/2024,Margaret Peacock,42,Singaporean Hokkien Fried Mee,20,Leka Trading,14,20,280,22.4,302.4
+10674,23,9/18/2024,Margaret Peacock,23,Tunnbrd,9,PB Knckebrd AB,9,5,45,3.6,48.6
+10685,43,9/29/2024,Margaret Peacock,10,Ikura,4,Tokyo Traders,31,20,620,49.6,669.6
+10685,43,9/29/2024,Margaret Peacock,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,4,38.6,3.09,41.69
+10685,43,9/29/2024,Margaret Peacock,47,Zaanse koeken,22,Zaanse Snoepfabriek,9.5,15,142.5,11.4,153.9
+10688,21,10/1/2024,Margaret Peacock,10,Ikura,4,Tokyo Traders,31,18,558,44.64,602.64
+10688,21,10/1/2024,Margaret Peacock,34,Sasquatch Ale,16,Bigfoot Breweries,14,14,196,15.68,211.68
+10692,50,10/3/2024,Margaret Peacock,63,Vegie-spread,7,"Pavlova, Ltd.",43.9,20,878,70.24,948.24
+10698,1,10/9/2024,Margaret Peacock,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',21,15,315,25.2,340.2
+10698,1,10/9/2024,Margaret Peacock,17,Alice Mutton,7,"Pavlova, Ltd.",39,8,312,24.96,336.96
+10698,1,10/9/2024,Margaret Peacock,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,123.79,12,1485.48,118.84,1604.32
+10698,1,10/9/2024,Margaret Peacock,70,Outback Lager,7,"Pavlova, Ltd.",15,8,120,9.6,129.6
+10702,50,10/13/2024,Margaret Peacock,3,Aniseed Syrup,1,Exotic Liquids,10,6,60,4.8,64.8
+10702,50,10/13/2024,Margaret Peacock,76,Lakkalikri,23,Karkki Oy,18,15,270,21.6,291.6
+10707,20,10/16/2024,Margaret Peacock,55,Pt chinois,25,Ma Maison,24,21,504,40.32,544.32
+10716,55,10/24/2024,Margaret Peacock,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",10,5,50,4,54
+10716,55,10/24/2024,Margaret Peacock,51,Manjimup Dried Apples,24,"G'day, Mate",53,7,371,29.68,400.68
+10716,55,10/24/2024,Margaret Peacock,61,Sirop d'rable,29,Forts d'rables,28.5,10,285,22.8,307.8
+10725,68,10/31/2024,Margaret Peacock,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,12,115.8,9.26,125.06
+10725,68,10/31/2024,Margaret Peacock,52,Filo Mix,24,"G'day, Mate",7,4,28,2.24,30.24
+10725,68,10/31/2024,Margaret Peacock,55,Pt chinois,25,Ma Maison,24,6,144,11.52,155.52
+10726,11,11/3/2024,Margaret Peacock,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',21,5,105,8.4,113.4
+10728,70,11/4/2024,Margaret Peacock,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,25.89,15,388.35,31.07,419.42
+10728,70,11/4/2024,Margaret Peacock,40,Boston Crab Meat,19,New England Seafood Cannery,18.4,6,110.4,8.83,119.23
+10728,70,11/4/2024,Margaret Peacock,55,Pt chinois,25,Ma Maison,24,12,288,23.04,311.04
+10728,70,11/4/2024,Margaret Peacock,60,Camembert Pierrot,28,Gai pturage,34,15,510,40.8,550.8
+10740,22,11/13/2024,Margaret Peacock,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,45.6,5,228,18.24,246.24
+10740,22,11/13/2024,Margaret Peacock,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,38,14,532,42.56,574.56
+10741,20,11/14/2024,Margaret Peacock,2,Chang,1,Exotic Liquids,19,15,285,22.8,307.8
+10749,23,11/20/2024,Margaret Peacock,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,38,15,570,45.6,615.6
+10749,23,11/20/2024,Margaret Peacock,59,Raclette Courdavault,28,Gai pturage,55,6,330,26.4,356.4
+10749,23,11/20/2024,Margaret Peacock,76,Lakkalikri,23,Karkki Oy,18,10,180,14.4,194.4
+10755,9,11/26/2024,Margaret Peacock,57,Ravioli Angelo,26,Pasta Buttini s.r.l.,19.5,14,273,21.84,294.84
+10760,85,12/1/2024,Margaret Peacock,25,NuNuCa Nu-Nougat-Creme,11,Heli Swaren GmbH & Co. KG,14,12,168,13.44,181.44
+10767,63,12/5/2024,Margaret Peacock,42,Singaporean Hokkien Fried Mee,20,Leka Trading,14,2,28,2.24,30.24
+10774,53,12/11/2024,Margaret Peacock,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,2,25,2,27
+10783,42,12/18/2024,Margaret Peacock,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,10,125,10,135
+10783,42,12/18/2024,Margaret Peacock,38,Cte de Blaye,18,Aux joyeux ecclsiastiques,263.5,5,1317.5,105.4,1422.9
+10784,2,12/18/2024,Margaret Peacock,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,18,2,36,2.88,38.88
+10801,87,12/29/2024,Margaret Peacock,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,123.79,20,2475.8,198.06,2673.86
+10802,72,12/29/2024,Margaret Peacock,62,Tarte au sucre,29,Forts d'rables,49.3,5,246.5,19.72,266.22
+10803,52,12/30/2024,Margaret Peacock,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",9.2,24,220.8,17.66,238.46
+10803,52,12/30/2024,Margaret Peacock,25,NuNuCa Nu-Nougat-Creme,11,Heli Swaren GmbH & Co. KG,14,15,210,16.8,226.8
+10803,52,12/30/2024,Margaret Peacock,59,Raclette Courdavault,28,Gai pturage,55,15,825,66,891
+10807,44,12/31/2024,Margaret Peacock,40,Boston Crab Meat,19,New England Seafood Cannery,18.4,1,18.4,1.47,19.87
+10816,36,1/6/2025,Margaret Peacock,62,Tarte au sucre,29,Forts d'rables,49.3,20,986,78.88,1064.88
+10830,3,1/13/2025,Margaret Peacock,6,Grandma's Boysenberry Spread,3,Grandma Kelly's Homestead,25,6,150,12,162
+10830,3,1/13/2025,Margaret Peacock,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",12.5,24,300,24,324
+10840,64,1/19/2025,Margaret Peacock,25,NuNuCa Nu-Nougat-Creme,11,Heli Swaren GmbH & Co. KG,14,6,84,6.72,90.72
+10840,64,1/19/2025,Margaret Peacock,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,18,10,180,14.4,194.4
+10843,29,1/21/2025,Margaret Peacock,51,Manjimup Dried Apples,24,"G'day, Mate",53,4,212,16.96,228.96
+10847,17,1/22/2025,Margaret Peacock,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",9.2,12,110.4,8.83,119.23
+10861,22,1/30/2025,Margaret Peacock,18,Carnarvon Tigers,7,"Pavlova, Ltd.",62.5,20,1250,100,1350
+10861,22,1/30/2025,Margaret Peacock,62,Tarte au sucre,29,Forts d'rables,49.3,3,147.9,11.83,159.73
+10863,25,2/2/2025,Margaret Peacock,1,Chai,1,Exotic Liquids,18,20,360,28.8,388.8
+10863,25,2/2/2025,Margaret Peacock,58,Escargots de Bourgogne,27,Escargots Nouveaux,13.25,12,159,12.72,171.72
+10864,20,2/2/2025,Margaret Peacock,35,Steeleye Stout,16,Bigfoot Breweries,18,4,72,5.76,77.76
+10864,20,2/2/2025,Margaret Peacock,67,Laughing Lumberjack Lager,16,Bigfoot Breweries,14,15,210,16.8,226.8
+10873,54,2/6/2025,Margaret Peacock,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",10,20,200,16,216
+10873,54,2/6/2025,Margaret Peacock,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,45.6,3,136.8,10.94,147.74
+10875,27,2/6/2025,Margaret Peacock,47,Zaanse koeken,22,Zaanse Snoepfabriek,9.5,21,199.5,15.96,215.46
+10875,27,2/6/2025,Margaret Peacock,49,Maxilaku,23,Karkki Oy,20,15,300,24,324
+10878,59,2/10/2025,Margaret Peacock,20,Sir Rodney's Marmalade,8,"Specialty Biscuits, Ltd.",81,20,1620,129.6,1749.6
+10881,77,2/11/2025,Margaret Peacock,73,Rd Kaviar,17,Svensk Sjfda AB,15,10,150,12,162
+10882,17,2/11/2025,Margaret Peacock,49,Maxilaku,23,Karkki Oy,20,20,400,32,432
+10884,32,2/12/2025,Margaret Peacock,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,38,21,798,63.84,861.84
+10884,32,2/12/2025,Margaret Peacock,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,21.05,12,252.6,20.21,272.81
+10898,81,2/20/2025,Margaret Peacock,13,Konbu,6,Mayumi's,6,5,30,2.4,32.4
+10906,13,2/25/2025,Margaret Peacock,61,Sirop d'rable,29,Forts d'rables,28.5,15,427.5,34.2,461.7
+10908,30,2/26/2025,Margaret Peacock,7,Uncle Bob's Organic Dried Pears,3,Grandma Kelly's Homestead,30,20,600,48,648
+10908,30,2/26/2025,Margaret Peacock,52,Filo Mix,24,"G'day, Mate",7,14,98,7.84,105.84
+10913,70,2/26/2025,Margaret Peacock,58,Escargots de Bourgogne,27,Escargots Nouveaux,13.25,15,198.75,15.9,214.65
+10917,5,3/2/2025,Margaret Peacock,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,25.89,1,25.89,2.07,27.96
+10917,5,3/2/2025,Margaret Peacock,60,Camembert Pierrot,28,Gai pturage,34,10,340,27.2,367.2
+10920,20,3/3/2025,Margaret Peacock,50,Valkoinen suklaa,23,Karkki Oy,16.25,24,390,31.2,421.2
+10926,83,3/4/2025,Margaret Peacock,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',21,2,42,3.36,45.36
+10926,83,3/4/2025,Margaret Peacock,13,Konbu,6,Mayumi's,6,10,60,4.8,64.8
+10926,83,3/4/2025,Margaret Peacock,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",9.2,7,64.4,5.15,69.55
+10926,83,3/4/2025,Margaret Peacock,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,34.8,10,348,27.84,375.84
+10927,78,3/5/2025,Margaret Peacock,20,Sir Rodney's Marmalade,8,"Specialty Biscuits, Ltd.",81,5,405,32.4,437.4
+10927,78,3/5/2025,Margaret Peacock,52,Filo Mix,24,"G'day, Mate",7,5,35,2.8,37.8
+10927,78,3/5/2025,Margaret Peacock,76,Lakkalikri,23,Karkki Oy,18,20,360,28.8,388.8
+10935,52,3/9/2025,Margaret Peacock,1,Chai,1,Exotic Liquids,18,21,378,30.24,408.24
+10935,52,3/9/2025,Margaret Peacock,18,Carnarvon Tigers,7,"Pavlova, Ltd.",62.5,4,250,20,270
+10935,52,3/9/2025,Margaret Peacock,23,Tunnbrd,9,PB Knckebrd AB,9,8,72,5.76,77.76
+10943,62,3/11/2025,Margaret Peacock,13,Konbu,6,Mayumi's,6,15,90,7.2,97.2
+10943,62,3/11/2025,Margaret Peacock,22,Gustaf's Knckebrd,9,PB Knckebrd AB,21,21,441,35.28,476.28
+10943,62,3/11/2025,Margaret Peacock,46,Spegesild,21,Lyngbysild,12,15,180,14.4,194.4
+10945,66,3/12/2025,Margaret Peacock,13,Konbu,6,Mayumi's,6,20,120,9.6,129.6
+10945,66,3/12/2025,Margaret Peacock,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,10,125,10,135
+10966,45,3/20/2025,Margaret Peacock,37,Gravad lax,17,Svensk Sjfda AB,26,8,208,16.64,224.64
+10966,45,3/20/2025,Margaret Peacock,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,38,12,456,36.48,492.48
+10966,45,3/20/2025,Margaret Peacock,62,Tarte au sucre,29,Forts d'rables,49.3,12,591.6,47.33,638.93
+10972,78,3/24/2025,Margaret Peacock,17,Alice Mutton,7,"Pavlova, Ltd.",39,6,234,18.72,252.72
+10972,78,3/24/2025,Margaret Peacock,33,Geitost,15,Norske Meierier,2.5,7,17.5,1.4,18.9
+11002,17,4/6/2025,Margaret Peacock,35,Steeleye Stout,16,Bigfoot Breweries,18,15,270,21.6,291.6
+11002,17,4/6/2025,Margaret Peacock,42,Singaporean Hokkien Fried Mee,20,Leka Trading,14,24,336,26.88,362.88
+11018,37,4/13/2025,Margaret Peacock,12,Queso Manchego La Pastora,5,Cooperativa de Quesos 'Las Cabras',38,20,760,60.8,820.8
+11018,37,4/13/2025,Margaret Peacock,18,Carnarvon Tigers,7,"Pavlova, Ltd.",62.5,10,625,50,675
+11018,37,4/13/2025,Margaret Peacock,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,38,5,190,15.2,205.2
+11024,11,4/15/2025,Margaret Peacock,26,Gumbr Gummibrchen,11,Heli Swaren GmbH & Co. KG,31.23,12,374.76,29.98,404.74
+11024,11,4/15/2025,Margaret Peacock,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,21.05,21,442.05,35.36,477.41
+11026,44,4/15/2025,Margaret Peacock,18,Carnarvon Tigers,7,"Pavlova, Ltd.",62.5,8,500,40,540
+11026,44,4/15/2025,Margaret Peacock,51,Manjimup Dried Apples,24,"G'day, Mate",53,10,530,42.4,572.4
+11029,45,4/16/2025,Margaret Peacock,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,38,20,760,60.8,820.8
+11029,45,4/16/2025,Margaret Peacock,63,Vegie-spread,7,"Pavlova, Ltd.",43.9,12,526.8,42.14,568.94
+11040,36,4/22/2025,Margaret Peacock,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",10,20,200,16,216
+11044,13,4/23/2025,Margaret Peacock,62,Tarte au sucre,29,Forts d'rables,49.3,12,591.6,47.33,638.93
+11061,36,4/30/2025,Margaret Peacock,60,Camembert Pierrot,28,Gai pturage,34,15,510,40.8,550.8
+11062,30,4/30/2025,Margaret Peacock,53,Perth Pasties,24,"G'day, Mate",32.8,10,328,26.24,354.24
+11062,30,4/30/2025,Margaret Peacock,70,Outback Lager,7,"Pavlova, Ltd.",15,12,180,14.4,194.4
+11072,1,5/5/2025,Margaret Peacock,2,Chang,1,Exotic Liquids,19,8,152,12.16,164.16
+11072,1,5/5/2025,Margaret Peacock,50,Valkoinen suklaa,23,Karkki Oy,16.25,22,357.5,28.6,386.1
+11076,9,5/6/2025,Margaret Peacock,6,Grandma's Boysenberry Spread,3,Grandma Kelly's Homestead,25,20,500,40,540
+11076,9,5/6/2025,Margaret Peacock,14,Tofu,6,Mayumi's,23.25,20,465,37.2,502.2
+11076,9,5/6/2025,Margaret Peacock,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",9.2,10,92,7.36,99.36
+10248,67,7/4/2023,Steven Buchanan,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',14,12,168,13.44,181.44
+10248,67,7/4/2023,Steven Buchanan,42,Singaporean Hokkien Fried Mee,20,Leka Trading,9.8,10,98,7.84,105.84
+10248,67,7/4/2023,Steven Buchanan,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,34.8,5,174,13.92,187.92
+10254,45,7/11/2023,Steven Buchanan,24,Guaran Fantstica,10,Refrescos Americanas LTDA,3.6,15,54,4.32,58.32
+10254,45,7/11/2023,Steven Buchanan,55,Pt chinois,25,Ma Maison,19.2,21,403.2,32.26,435.46
+10254,45,7/11/2023,Steven Buchanan,74,Longlife Tofu,4,Tokyo Traders,8,21,168,13.44,181.44
+10269,22,7/31/2023,Steven Buchanan,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,27.8,20,556,44.48,600.48
+10297,65,9/4/2023,Steven Buchanan,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,27.8,20,556,44.48,600.48
+10333,71,10/18/2023,Steven Buchanan,14,Tofu,6,Mayumi's,18.6,10,186,14.88,200.88
+10333,71,10/18/2023,Steven Buchanan,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",8,10,80,6.4,86.4
+10358,12,11/20/2023,Steven Buchanan,24,Guaran Fantstica,10,Refrescos Americanas LTDA,3.6,10,36,2.88,38.88
+10358,12,11/20/2023,Steven Buchanan,34,Sasquatch Ale,16,Bigfoot Breweries,11.2,10,112,8.96,120.96
+10358,12,11/20/2023,Steven Buchanan,36,Inlagd Sill,17,Svensk Sjfda AB,15.2,20,304,24.32,328.32
+10372,70,12/4/2023,Steven Buchanan,20,Sir Rodney's Marmalade,8,"Specialty Biscuits, Ltd.",64.8,12,777.6,62.21,839.81
+10378,53,12/10/2023,Steven Buchanan,71,Flotemysost,15,Norske Meierier,17.2,6,103.2,8.26,111.46
+10397,89,12/27/2023,Steven Buchanan,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",8,10,80,6.4,86.4
+10397,89,12/27/2023,Steven Buchanan,51,Manjimup Dried Apples,24,"G'day, Mate",42.4,18,763.2,61.06,824.26
+10463,63,3/4/2024,Steven Buchanan,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",7.3,21,153.3,12.26,165.56
+10474,61,3/13/2024,Steven Buchanan,14,Tofu,6,Mayumi's,18.6,12,223.2,17.86,241.06
+10474,61,3/13/2024,Steven Buchanan,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,36.4,18,655.2,52.42,707.62
+10474,61,3/13/2024,Steven Buchanan,40,Boston Crab Meat,19,New England Seafood Cannery,14.7,21,308.7,24.7,333.4
+10474,61,3/13/2024,Steven Buchanan,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,6.2,10,62,4.96,66.96
+10477,89,3/17/2024,Steven Buchanan,1,Chai,1,Exotic Liquids,14.4,15,216,17.28,233.28
+10477,89,3/17/2024,Steven Buchanan,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",8,21,168,13.44,181.44
+10477,89,3/17/2024,Steven Buchanan,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,14.4,20,288,23.04,311.04
+10529,85,5/7/2024,Steven Buchanan,55,Pt chinois,25,Ma Maison,24,14,336,26.88,362.88
+10529,85,5/7/2024,Steven Buchanan,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",12.5,20,250,20,270
+10529,85,5/7/2024,Steven Buchanan,69,Gudbrandsdalsost,15,Norske Meierier,36,10,360,28.8,388.8
+10575,66,6/20/2024,Steven Buchanan,59,Raclette Courdavault,28,Gai pturage,55,12,660,52.8,712.8
+10575,66,6/20/2024,Steven Buchanan,63,Vegie-spread,7,"Pavlova, Ltd.",43.9,6,263.4,21.07,284.47
+10575,66,6/20/2024,Steven Buchanan,76,Lakkalikri,23,Karkki Oy,18,10,180,14.4,194.4
+10607,17,7/22/2024,Steven Buchanan,33,Geitost,15,Norske Meierier,2.5,14,35,2.8,37.8
+10607,17,7/22/2024,Steven Buchanan,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,34.8,12,417.6,33.41,451.01
+10648,48,8/28/2024,Steven Buchanan,22,Gustaf's Knckebrd,9,PB Knckebrd AB,21,15,315,25.2,340.2
+10648,48,8/28/2024,Steven Buchanan,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,15,67.5,5.4,72.9
+10649,85,8/28/2024,Steven Buchanan,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,45.6,20,912,72.96,984.96
+10649,85,8/28/2024,Steven Buchanan,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,34.8,15,522,41.76,563.76
+10654,27,9/2/2024,Steven Buchanan,4,Chef Anton's Cajun Seasoning,2,New Orleans Cajun Delights,22,12,264,21.12,285.12
+10654,27,9/2/2024,Steven Buchanan,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,18,20,360,28.8,388.8
+10654,27,9/2/2024,Steven Buchanan,54,Tourtire,25,Ma Maison,7.45,6,44.7,3.58,48.28
+10675,19,9/19/2024,Steven Buchanan,53,Perth Pasties,24,"G'day, Mate",32.8,10,328,26.24,354.24
+10711,17,10/21/2024,Steven Buchanan,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",9.2,12,110.4,8.83,119.23
+10714,17,10/22/2024,Steven Buchanan,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,38,18,684,54.72,738.72
+10714,17,10/22/2024,Steven Buchanan,58,Escargots de Bourgogne,27,Escargots Nouveaux,13.25,12,159,12.72,171.72
+10730,9,11/5/2024,Steven Buchanan,16,Pavlova,7,"Pavlova, Ltd.",17.45,15,261.75,20.94,282.69
+10730,9,11/5/2024,Steven Buchanan,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,3,37.5,3,40.5
+10730,9,11/5/2024,Steven Buchanan,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,21.05,10,210.5,16.84,227.34
+10761,7,12/2/2024,Steven Buchanan,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,7.75,18,139.5,11.16,150.66
+10812,30,1/2/2025,Steven Buchanan,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,16,200,16,216
+10812,30,1/2/2025,Steven Buchanan,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,13,20,260,20.8,280.8
+10823,10,1/9/2025,Steven Buchanan,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',21,20,420,33.6,453.6
+10823,10,1/9/2025,Steven Buchanan,57,Ravioli Angelo,26,Pasta Buttini s.r.l.,19.5,15,292.5,23.4,315.9
+10823,10,1/9/2025,Steven Buchanan,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,13,15,195,15.6,210.6
+10841,63,1/20/2025,Steven Buchanan,10,Ikura,4,Tokyo Traders,31,16,496,39.68,535.68
+10841,63,1/20/2025,Steven Buchanan,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,13,15,195,15.6,210.6
+10851,48,1/26/2025,Steven Buchanan,2,Chang,1,Exotic Liquids,19,5,95,7.6,102.6
+10851,48,1/26/2025,Steven Buchanan,25,NuNuCa Nu-Nougat-Creme,11,Heli Swaren GmbH & Co. KG,14,10,140,11.2,151.2
+10851,48,1/26/2025,Steven Buchanan,57,Ravioli Angelo,26,Pasta Buttini s.r.l.,19.5,10,195,15.6,210.6
+10866,27,2/3/2025,Steven Buchanan,2,Chang,1,Exotic Liquids,19,21,399,31.92,430.92
+10866,27,2/3/2025,Steven Buchanan,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,6,27,2.16,29.16
+10869,14,2/4/2025,Steven Buchanan,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',21,10,210,16.8,226.8
+10869,14,2/4/2025,Steven Buchanan,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",12.5,20,250,20,270
+10870,13,2/4/2025,Steven Buchanan,35,Steeleye Stout,16,Bigfoot Breweries,18,3,54,4.32,58.32
+10870,13,2/4/2025,Steven Buchanan,51,Manjimup Dried Apples,24,"G'day, Mate",53,2,106,8.48,114.48
+10872,51,2/5/2025,Steven Buchanan,55,Pt chinois,25,Ma Maison,24,10,240,19.2,259.2
+10872,51,2/5/2025,Steven Buchanan,62,Tarte au sucre,29,Forts d'rables,49.3,20,986,78.88,1064.88
+10872,51,2/5/2025,Steven Buchanan,64,Wimmers gute Semmelkndel,12,Plutzer Lebensmittelgromrkte AG,33.25,15,498.75,39.9,538.65
+10872,51,2/5/2025,Steven Buchanan,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,21.05,21,442.05,35.36,477.41
+10874,51,2/6/2025,Steven Buchanan,10,Ikura,4,Tokyo Traders,31,10,310,24.8,334.8
+10899,10,2/20/2025,Steven Buchanan,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,18,8,144,11.52,155.52
+10922,42,3/3/2025,Steven Buchanan,17,Alice Mutton,7,"Pavlova, Ltd.",39,15,585,46.8,631.8
+10954,64,3/17/2025,Steven Buchanan,60,Camembert Pierrot,28,Gai pturage,34,24,816,65.28,881.28
+11043,75,4/22/2025,Steven Buchanan,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',21,10,210,16.8,226.8
+10249,79,7/5/2023,Michael Suyama,14,Tofu,6,Mayumi's,18.6,9,167.4,13.39,180.79
+10271,15,8/1/2023,Michael Suyama,33,Geitost,15,Norske Meierier,2,24,48,3.84,51.84
+10272,7,8/2/2023,Michael Suyama,20,Sir Rodney's Marmalade,8,"Specialty Biscuits, Ltd.",64.8,6,388.8,31.1,419.9
+10272,7,8/2/2023,Michael Suyama,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,27.8,24,667.2,53.38,720.58
+10274,67,8/6/2023,Michael Suyama,71,Flotemysost,15,Norske Meierier,17.2,20,344,27.52,371.52
+10274,67,8/6/2023,Michael Suyama,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,27.8,7,194.6,15.57,210.17
+10291,33,8/27/2023,Michael Suyama,13,Konbu,6,Mayumi's,4.8,20,96,7.68,103.68
+10291,33,8/27/2023,Michael Suyama,44,Gula Malacca,20,Leka Trading,15.5,24,372,29.76,401.76
+10291,33,8/27/2023,Michael Suyama,51,Manjimup Dried Apples,24,"G'day, Mate",42.4,2,84.8,6.78,91.58
+10296,10,9/3/2023,Michael Suyama,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',16.8,12,201.6,16.13,217.73
+10296,10,9/3/2023,Michael Suyama,69,Gudbrandsdalsost,15,Norske Meierier,28.8,15,432,34.56,466.56
+10298,31,9/5/2023,Michael Suyama,62,Tarte au sucre,29,Forts d'rables,39.4,15,591,47.28,638.28
+10317,37,9/30/2023,Michael Suyama,1,Chai,1,Exotic Liquids,14.4,20,288,23.04,311.04
+10350,12,11/11/2023,Michael Suyama,50,Valkoinen suklaa,23,Karkki Oy,13,15,195,15.6,210.6
+10350,12,11/11/2023,Michael Suyama,69,Gudbrandsdalsost,15,Norske Meierier,28.8,18,518.4,41.47,559.87
+10356,38,11/18/2023,Michael Suyama,55,Pt chinois,25,Ma Maison,19.2,12,230.4,18.43,248.83
+10356,38,11/18/2023,Michael Suyama,69,Gudbrandsdalsost,15,Norske Meierier,28.8,20,576,46.08,622.08
+10370,45,12/3/2023,Michael Suyama,1,Chai,1,Exotic Liquids,14.4,15,216,17.28,233.28
+10370,45,12/3/2023,Michael Suyama,74,Longlife Tofu,4,Tokyo Traders,8,20,160,12.8,172.8
+10390,1,12/23/2023,Michael Suyama,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,27.8,24,667.2,53.38,720.58
+10395,25,12/26/2023,Michael Suyama,69,Gudbrandsdalsost,15,Norske Meierier,28.8,8,230.4,18.43,248.83
+10423,43,1/23/2024,Michael Suyama,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,10,14,140,11.2,151.2
+10423,43,1/23/2024,Michael Suyama,59,Raclette Courdavault,28,Gai pturage,44,20,880,70.4,950.4
+10425,12,1/24/2024,Michael Suyama,55,Pt chinois,25,Ma Maison,19.2,10,192,15.36,207.36
+10425,12,1/24/2024,Michael Suyama,76,Lakkalikri,23,Karkki Oy,14.4,20,288,23.04,311.04
+10439,35,2/7/2024,Michael Suyama,12,Queso Manchego La Pastora,5,Cooperativa de Quesos 'Las Cabras',30.4,15,456,36.48,492.48
+10439,35,2/7/2024,Michael Suyama,16,Pavlova,7,"Pavlova, Ltd.",13.9,16,222.4,17.79,240.19
+10439,35,2/7/2024,Michael Suyama,64,Wimmers gute Semmelkndel,12,Plutzer Lebensmittelgromrkte AG,26.6,6,159.6,12.77,172.37
+10446,79,2/14/2024,Michael Suyama,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",7.3,12,87.6,7.01,94.61
+10446,79,2/14/2024,Michael Suyama,24,Guaran Fantstica,10,Refrescos Americanas LTDA,3.6,20,72,5.76,77.76
+10446,79,2/14/2024,Michael Suyama,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,10,3,30,2.4,32.4
+10446,79,2/14/2024,Michael Suyama,52,Filo Mix,24,"G'day, Mate",5.6,15,84,6.72,90.72
+10480,47,3/20/2024,Michael Suyama,59,Raclette Courdavault,28,Gai pturage,44,12,528,42.24,570.24
+10489,74,3/28/2024,Michael Suyama,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',16.8,15,252,20.16,272.16
+10489,74,3/28/2024,Michael Suyama,16,Pavlova,7,"Pavlova, Ltd.",13.9,18,250.2,20.02,270.22
+10500,12,4/9/2024,Michael Suyama,15,Genen Shouyu,6,Mayumi's,15.5,12,186,14.88,200.88
+10500,12,4/9/2024,Michael Suyama,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,45.6,8,364.8,29.18,393.98
+10503,31,4/11/2024,Michael Suyama,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,21.05,20,421,33.68,454.68
+10519,45,4/28/2024,Michael Suyama,10,Ikura,4,Tokyo Traders,31,16,496,39.68,535.68
+10519,45,4/28/2024,Michael Suyama,60,Camembert Pierrot,28,Gai pturage,34,10,340,27.2,367.2
+10528,36,5/6/2024,Michael Suyama,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',21,3,63,5.04,68.04
+10528,36,5/6/2024,Michael Suyama,33,Geitost,15,Norske Meierier,2.5,8,20,1.6,21.6
+10528,36,5/6/2024,Michael Suyama,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,34.8,9,313.2,25.06,338.26
+10539,62,5/16/2024,Michael Suyama,13,Konbu,6,Mayumi's,6,8,48,3.84,51.84
+10539,62,5/16/2024,Michael Suyama,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",10,15,150,12,162
+10539,62,5/16/2024,Michael Suyama,33,Geitost,15,Norske Meierier,2.5,15,37.5,3,40.5
+10539,62,5/16/2024,Michael Suyama,49,Maxilaku,23,Karkki Oy,20,6,120,9.6,129.6
+10555,17,6/2/2024,Michael Suyama,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,18,81,6.48,87.48
+10555,17,6/2/2024,Michael Suyama,51,Manjimup Dried Apples,24,"G'day, Mate",53,20,1060,84.8,1144.8
+10559,65,6/5/2024,Michael Suyama,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,12,115.8,9.26,125.06
+10559,65,6/5/2024,Michael Suyama,55,Pt chinois,25,Ma Maison,24,18,432,34.56,466.56
+10599,62,7/15/2024,Michael Suyama,62,Tarte au sucre,29,Forts d'rables,49.3,10,493,39.44,532.44
+10611,13,7/25/2024,Michael Suyama,1,Chai,1,Exotic Liquids,18,6,108,8.64,116.64
+10611,13,7/25/2024,Michael Suyama,2,Chang,1,Exotic Liquids,19,10,190,15.2,205.2
+10611,13,7/25/2024,Michael Suyama,60,Camembert Pierrot,28,Gai pturage,34,15,510,40.8,550.8
+10637,70,8/19/2024,Michael Suyama,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',21,10,210,16.8,226.8
+10643,50,8/25/2024,Michael Suyama,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,45.6,15,684,54.72,738.72
+10643,50,8/25/2024,Michael Suyama,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,18,21,378,30.24,408.24
+10643,50,8/25/2024,Michael Suyama,46,Spegesild,21,Lyngbysild,12,2,24,1.92,25.92
+10656,36,9/4/2024,Michael Suyama,14,Tofu,6,Mayumi's,23.25,3,69.75,5.58,75.33
+10656,36,9/4/2024,Michael Suyama,47,Zaanse koeken,22,Zaanse Snoepfabriek,9.5,6,57,4.56,61.56
+10701,31,10/13/2024,Michael Suyama,71,Flotemysost,15,Norske Meierier,21.5,20,430,34.4,464.4
+10703,53,10/14/2024,Michael Suyama,2,Chang,1,Exotic Liquids,19,5,95,7.6,102.6
+10704,70,10/14/2024,Michael Suyama,4,Chef Anton's Cajun Seasoning,2,New Orleans Cajun Delights,22,6,132,10.56,142.56
+10704,70,10/14/2024,Michael Suyama,48,Chocolade,22,Zaanse Snoepfabriek,12.75,24,306,24.48,330.48
+10708,60,10/17/2024,Michael Suyama,5,Chef Anton's Gumbo Mix,2,New Orleans Cajun Delights,21.35,4,85.4,6.83,92.23
+10708,60,10/17/2024,Michael Suyama,36,Inlagd Sill,17,Svensk Sjfda AB,19,5,95,7.6,102.6
+10735,32,11/10/2024,Michael Suyama,61,Sirop d'rable,29,Forts d'rables,28.5,20,570,45.6,615.6
+10735,32,11/10/2024,Michael Suyama,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,13,2,26,2.08,28.08
+10747,74,11/19/2024,Michael Suyama,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,8,100,8,108
+10747,74,11/19/2024,Michael Suyama,63,Vegie-spread,7,"Pavlova, Ltd.",43.9,9,395.1,31.61,426.71
+10754,2,11/25/2024,Michael Suyama,40,Boston Crab Meat,19,New England Seafood Cannery,18.4,3,55.2,4.42,59.62
+10757,17,11/27/2024,Michael Suyama,59,Raclette Courdavault,28,Gai pturage,55,7,385,30.8,415.8
+10757,17,11/27/2024,Michael Suyama,64,Wimmers gute Semmelkndel,12,Plutzer Lebensmittelgromrkte AG,33.25,24,798,63.84,861.84
+10764,1,12/3/2024,Michael Suyama,3,Aniseed Syrup,1,Exotic Liquids,10,20,200,16,216
+10790,43,12/22/2024,Michael Suyama,7,Uncle Bob's Organic Dried Pears,3,Grandma Kelly's Homestead,30,3,90,7.2,97.2
+10790,43,12/22/2024,Michael Suyama,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,38,20,760,60.8,820.8
+10791,19,12/23/2024,Michael Suyama,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,123.79,14,1733.06,138.64,1871.7
+10791,19,12/23/2024,Michael Suyama,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,20,193,15.44,208.44
+10794,33,12/24/2024,Michael Suyama,14,Tofu,6,Mayumi's,23.25,15,348.75,27.9,376.65
+10794,33,12/24/2024,Michael Suyama,54,Tourtire,25,Ma Maison,7.45,6,44.7,3.58,48.28
+10804,14,12/30/2024,Michael Suyama,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,45.6,24,1094.4,87.55,1181.95
+10804,14,12/30/2024,Michael Suyama,49,Maxilaku,23,Karkki Oy,20,4,80,6.4,86.4
+10822,88,1/8/2025,Michael Suyama,62,Tarte au sucre,29,Forts d'rables,49.3,3,147.9,11.83,159.73
+10822,88,1/8/2025,Michael Suyama,70,Outback Lager,7,"Pavlova, Ltd.",15,6,90,7.2,97.2
+10826,65,1/12/2025,Michael Suyama,57,Ravioli Angelo,26,Pasta Buttini s.r.l.,19.5,15,292.5,23.4,315.9
+10833,26,1/15/2025,Michael Suyama,7,Uncle Bob's Organic Dried Pears,3,Grandma Kelly's Homestead,30,20,600,48,648
+10833,26,1/15/2025,Michael Suyama,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,9,112.5,9,121.5
+10833,26,1/15/2025,Michael Suyama,53,Perth Pasties,24,"G'day, Mate",32.8,9,295.2,23.62,318.82
+10867,37,2/3/2025,Michael Suyama,53,Perth Pasties,24,"G'day, Mate",32.8,3,98.4,7.87,106.27
+10885,63,2/12/2025,Michael Suyama,2,Chang,1,Exotic Liquids,19,20,380,30.4,410.4
+10885,63,2/12/2025,Michael Suyama,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,12,54,4.32,58.32
+10907,75,2/25/2025,Michael Suyama,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,7.75,14,108.5,8.68,117.18
+10929,19,3/5/2025,Michael Suyama,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,13,15,195,15.6,210.6
+10933,23,3/6/2025,Michael Suyama,53,Perth Pasties,24,"G'day, Mate",32.8,2,65.6,5.25,70.85
+10944,58,3/12/2025,Michael Suyama,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',21,5,105,8.4,113.4
+10944,58,3/12/2025,Michael Suyama,44,Gula Malacca,20,Leka Trading,19.45,18,350.1,28.01,378.11
+10944,58,3/12/2025,Michael Suyama,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,38,18,684,54.72,738.72
+10956,82,3/17/2025,Michael Suyama,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",10,12,120,9.6,129.6
+10956,82,3/17/2025,Michael Suyama,47,Zaanse koeken,22,Zaanse Snoepfabriek,9.5,14,133,10.64,143.64
+10956,82,3/17/2025,Michael Suyama,51,Manjimup Dried Apples,24,"G'day, Mate",53,8,424,33.92,457.92
+10959,43,3/18/2025,Michael Suyama,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,7.75,20,155,12.4,167.4
+10965,41,3/20/2025,Michael Suyama,51,Manjimup Dried Apples,24,"G'day, Mate",53,16,848,67.84,915.84
+10973,78,3/24/2025,Michael Suyama,26,Gumbr Gummibrchen,11,Heli Swaren GmbH & Co. KG,31.23,5,156.15,12.49,168.64
+10973,78,3/24/2025,Michael Suyama,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,6,57.9,4.63,62.53
+10973,78,3/24/2025,Michael Suyama,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,7.75,10,77.5,6.2,83.7
+10999,26,4/3/2025,Michael Suyama,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,20,193,15.44,208.44
+10999,26,4/3/2025,Michael Suyama,51,Manjimup Dried Apples,24,"G'day, Mate",53,15,795,63.6,858.6
+10999,26,4/3/2025,Michael Suyama,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,13,21,273,21.84,294.84
+11019,55,4/13/2025,Michael Suyama,46,Spegesild,21,Lyngbysild,12,3,36,2.88,38.88
+11019,55,4/13/2025,Michael Suyama,49,Maxilaku,23,Karkki Oy,20,2,40,3.2,43.2
+11025,71,4/15/2025,Michael Suyama,1,Chai,1,Exotic Liquids,18,10,180,14.4,194.4
+11025,71,4/15/2025,Michael Suyama,13,Konbu,6,Mayumi's,6,20,120,9.6,129.6
+11031,17,4/17/2025,Michael Suyama,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,21,94.5,7.56,102.06
+11031,17,4/17/2025,Michael Suyama,64,Wimmers gute Semmelkndel,12,Plutzer Lebensmittelgromrkte AG,33.25,20,665,53.2,718.2
+11031,17,4/17/2025,Michael Suyama,71,Flotemysost,15,Norske Meierier,21.5,16,344,27.52,371.52
+11045,58,4/23/2025,Michael Suyama,33,Geitost,15,Norske Meierier,2.5,15,37.5,3,40.5
+11045,58,4/23/2025,Michael Suyama,51,Manjimup Dried Apples,24,"G'day, Mate",53,24,1272,101.76,1373.76
+10289,62,8/26/2023,Robert King,64,Wimmers gute Semmelkndel,12,Plutzer Lebensmittelgromrkte AG,26.6,9,239.4,19.15,258.55
+10303,51,9/11/2023,Robert King,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",10,15,150,12,162
+10308,83,9/18/2023,Robert King,69,Gudbrandsdalsost,15,Norske Meierier,28.8,1,28.8,2.3,31.1
+10308,83,9/18/2023,Robert King,70,Outback Lager,7,"Pavlova, Ltd.",12,5,60,4.8,64.8
+10319,4,10/2/2023,Robert King,17,Alice Mutton,7,"Pavlova, Ltd.",31.2,8,249.6,19.97,269.57
+10319,4,10/2/2023,Robert King,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,36.4,14,509.6,40.77,550.37
+10322,61,10/4/2023,Robert King,52,Filo Mix,24,"G'day, Mate",5.6,20,112,8.96,120.96
+10335,31,10/22/2023,Robert King,2,Chang,1,Exotic Liquids,15.2,7,106.4,8.51,114.91
+10335,31,10/22/2023,Robert King,32,Mascarpone Fabioli,14,Formaggi Fortini s.r.l.,25.6,6,153.6,12.29,165.89
+10336,89,10/23/2023,Robert King,4,Chef Anton's Cajun Seasoning,2,New Orleans Cajun Delights,17.6,18,316.8,25.34,342.14
+10341,72,10/29/2023,Robert King,33,Geitost,15,Norske Meierier,2,8,16,1.28,17.28
+10341,72,10/29/2023,Robert King,59,Raclette Courdavault,28,Gai pturage,44,9,396,31.68,427.68
+10349,15,11/8/2023,Robert King,54,Tourtire,25,Ma Maison,5.9,24,141.6,11.33,152.93
+10353,74,11/13/2023,Robert King,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',16.8,12,201.6,16.13,217.73
+10367,21,11/28/2023,Robert King,54,Tourtire,25,Ma Maison,5.9,18,106.2,8.5,114.7
+10367,21,11/28/2023,Robert King,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,16.8,15,252,20.16,272.16
+10367,21,11/28/2023,Robert King,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,10.4,7,72.8,5.82,78.62
+10406,70,1/7/2024,Robert King,1,Chai,1,Exotic Liquids,14.4,10,144,11.52,155.52
+10406,70,1/7/2024,Robert King,36,Inlagd Sill,17,Svensk Sjfda AB,15.2,5,76,6.08,82.08
+10406,70,1/7/2024,Robert King,40,Boston Crab Meat,19,New England Seafood Cannery,14.7,2,29.4,2.35,31.75
+10428,30,1/28/2024,Robert King,46,Spegesild,21,Lyngbysild,9.6,20,192,15.36,207.36
+10458,63,2/26/2024,Robert King,43,Ipoh Coffee,20,Leka Trading,36.8,20,736,58.88,794.88
+10458,63,2/26/2024,Robert King,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,30.4,15,456,36.48,492.48
+10496,3,4/4/2024,Robert King,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,10,20,200,16,216
+10497,80,4/4/2024,Robert King,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,30.4,14,425.6,34.05,459.65
+10507,40,4/15/2024,Robert King,43,Ipoh Coffee,20,Leka Trading,46,15,690,55.2,745.2
+10507,40,4/15/2024,Robert King,48,Chocolade,22,Zaanse Snoepfabriek,12.75,15,191.25,15.3,206.55
+10512,68,4/21/2024,Robert King,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,10,45,3.6,48.6
+10512,68,4/21/2024,Robert King,46,Spegesild,21,Lyngbysild,12,9,108,8.64,116.64
+10512,68,4/21/2024,Robert King,47,Zaanse koeken,22,Zaanse Snoepfabriek,9.5,6,57,4.56,61.56
+10512,68,4/21/2024,Robert King,60,Camembert Pierrot,28,Gai pturage,34,12,408,32.64,440.64
+10513,38,4/22/2024,Robert King,61,Sirop d'rable,29,Forts d'rables,28.5,15,427.5,34.2,461.7
+10520,16,4/29/2024,Robert King,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,8,36,2.88,38.88
+10520,16,4/29/2024,Robert King,53,Perth Pasties,24,"G'day, Mate",32.8,5,164,13.12,177.12
+10523,14,5/1/2024,Robert King,20,Sir Rodney's Marmalade,8,"Specialty Biscuits, Ltd.",81,15,1215,97.2,1312.2
+10523,14,5/1/2024,Robert King,37,Gravad lax,17,Svensk Sjfda AB,26,18,468,37.44,505.44
+10523,14,5/1/2024,Robert King,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,6,57.9,4.63,62.53
+10531,81,5/8/2024,Robert King,59,Raclette Courdavault,28,Gai pturage,55,2,110,8.8,118.8
+10532,11,5/9/2024,Robert King,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,25.89,15,388.35,31.07,419.42
+10532,11,5/9/2024,Robert King,66,Louisiana Hot Spiced Okra,2,New Orleans Cajun Delights,17,24,408,32.64,440.64
+10550,51,5/28/2024,Robert King,17,Alice Mutton,7,"Pavlova, Ltd.",39,8,312,24.96,336.96
+10550,51,5/28/2024,Robert King,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",9.2,10,92,7.36,99.36
+10550,51,5/28/2024,Robert King,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",10,6,60,4.8,64.8
+10550,51,5/28/2024,Robert King,61,Sirop d'rable,29,Forts d'rables,28.5,10,285,22.8,307.8
+10573,40,6/19/2024,Robert King,17,Alice Mutton,7,"Pavlova, Ltd.",39,18,702,56.16,758.16
+10585,52,7/1/2024,Robert King,47,Zaanse koeken,22,Zaanse Snoepfabriek,9.5,15,142.5,11.4,153.9
+10593,80,7/9/2024,Robert King,20,Sir Rodney's Marmalade,8,"Specialty Biscuits, Ltd.",81,21,1701,136.08,1837.08
+10593,80,7/9/2024,Robert King,69,Gudbrandsdalsost,15,Norske Meierier,36,20,720,57.6,777.6
+10593,80,7/9/2024,Robert King,76,Lakkalikri,23,Karkki Oy,18,4,72,5.76,77.76
+10597,74,7/11/2024,Robert King,57,Ravioli Angelo,26,Pasta Buttini s.r.l.,19.5,20,390,31.2,421.2
+10597,74,7/11/2024,Robert King,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,21.05,12,252.6,20.21,272.81
+10609,6,7/24/2024,Robert King,1,Chai,1,Exotic Liquids,18,3,54,4.32,58.32
+10609,6,7/24/2024,Robert King,10,Ikura,4,Tokyo Traders,31,10,310,24.8,334.8
+10609,6,7/24/2024,Robert King,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",10,6,60,4.8,64.8
+10633,1,8/15/2024,Robert King,13,Konbu,6,Mayumi's,6,13,78,6.24,84.24
+10639,16,8/20/2024,Robert King,18,Carnarvon Tigers,7,"Pavlova, Ltd.",62.5,8,500,40,540
+10642,72,8/22/2024,Robert King,61,Sirop d'rable,29,Forts d'rables,28.5,20,570,45.6,615.6
+10659,70,9/5/2024,Robert King,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,20,250,20,270
+10659,70,9/5/2024,Robert King,40,Boston Crab Meat,19,New England Seafood Cannery,18.4,24,441.6,35.33,476.93
+10661,31,9/9/2024,Robert King,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,18,3,54,4.32,58.32
+10666,28,9/12/2024,Robert King,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,21.05,10,210.5,16.84,227.34
+10667,1,9/12/2024,Robert King,71,Flotemysost,15,Norske Meierier,21.5,14,301,24.08,325.08
+10695,54,10/7/2024,Robert King,8,Northwoods Cranberry Sauce,3,Grandma Kelly's Homestead,40,10,400,32,432
+10695,54,10/7/2024,Robert King,12,Queso Manchego La Pastora,5,Cooperativa de Quesos 'Las Cabras',38,4,152,12.16,164.16
+10695,54,10/7/2024,Robert King,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,20,90,7.2,97.2
+10775,84,12/12/2024,Robert King,10,Ikura,4,Tokyo Traders,31,6,186,14.88,200.88
+10775,84,12/12/2024,Robert King,67,Laughing Lumberjack Lager,16,Bigfoot Breweries,14,3,42,3.36,45.36
+10777,43,12/15/2024,Robert King,42,Singaporean Hokkien Fried Mee,20,Leka Trading,14,20,280,22.4,302.4
+10797,49,12/25/2024,Robert King,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',21,20,420,33.6,453.6
+10809,52,1/1/2025,Robert King,52,Filo Mix,24,"G'day, Mate",7,20,140,11.2,151.2
+10818,2,1/7/2025,Robert King,32,Mascarpone Fabioli,14,Formaggi Fortini s.r.l.,32,20,640,51.2,691.2
+10818,2,1/7/2025,Robert King,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,20,193,15.44,208.44
+10836,1,1/16/2025,Robert King,35,Steeleye Stout,16,Bigfoot Breweries,18,6,108,8.64,116.64
+10836,1,1/16/2025,Robert King,57,Ravioli Angelo,26,Pasta Buttini s.r.l.,19.5,24,468,37.44,505.44
+10848,69,1/23/2025,Robert King,9,Mishi Kobe Niku,4,Tokyo Traders,97,3,291,23.28,314.28
+10868,70,2/4/2025,Robert King,26,Gumbr Gummibrchen,11,Heli Swaren GmbH & Co. KG,31.23,20,624.6,49.97,674.57
+10876,9,2/9/2025,Robert King,46,Spegesild,21,Lyngbysild,12,21,252,20.16,272.16
+10876,9,2/9/2025,Robert King,64,Wimmers gute Semmelkndel,12,Plutzer Lebensmittelgromrkte AG,33.25,20,665,53.2,718.2
+10890,6,2/16/2025,Robert King,17,Alice Mutton,7,"Pavlova, Ltd.",39,15,585,46.8,631.8
+10890,6,2/16/2025,Robert King,34,Sasquatch Ale,16,Bigfoot Breweries,14,10,140,11.2,151.2
+10890,6,2/16/2025,Robert King,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,14,135.1,10.81,145.91
+10891,80,2/17/2025,Robert King,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,25.89,15,388.35,31.07,419.42
+10896,85,2/19/2025,Robert King,45,Rogede sild,21,Lyngbysild,9.5,15,142.5,11.4,153.9
+10896,85,2/19/2025,Robert King,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,38,16,608,48.64,656.64
+10923,12,3/3/2025,Robert King,42,Singaporean Hokkien Fried Mee,20,Leka Trading,14,10,140,11.2,151.2
+10923,12,3/3/2025,Robert King,43,Ipoh Coffee,20,Leka Trading,46,10,460,36.8,496.8
+10923,12,3/3/2025,Robert King,67,Laughing Lumberjack Lager,16,Bigfoot Breweries,14,24,336,26.88,362.88
+10937,77,3/10/2025,Robert King,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,45.6,8,364.8,29.18,393.98
+10937,77,3/10/2025,Robert King,34,Sasquatch Ale,16,Bigfoot Breweries,14,20,280,22.4,302.4
+10958,81,3/18/2025,Robert King,5,Chef Anton's Gumbo Mix,2,New Orleans Cajun Delights,21.35,20,427,34.16,461.16
+10958,81,3/18/2025,Robert King,7,Uncle Bob's Organic Dried Pears,3,Grandma Kelly's Homestead,30,6,180,14.4,194.4
+10958,81,3/18/2025,Robert King,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,34.8,5,174,13.92,187.92
+11008,1,4/8/2025,Robert King,71,Flotemysost,15,Norske Meierier,21.5,21,451.5,36.12,487.62
+11037,51,4/21/2025,Robert King,70,Outback Lager,7,"Pavlova, Ltd.",15,4,60,4.8,64.8
+11051,12,4/27/2025,Robert King,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,10,45,3.6,48.6
+11055,25,4/28/2025,Robert King,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,15,67.5,5.4,72.9
+11055,25,4/28/2025,Robert King,25,NuNuCa Nu-Nougat-Creme,11,Heli Swaren GmbH & Co. KG,14,15,210,16.8,226.8
+11055,25,4/28/2025,Robert King,51,Manjimup Dried Apples,24,"G'day, Mate",53,20,1060,84.8,1144.8
+11055,25,4/28/2025,Robert King,57,Ravioli Angelo,26,Pasta Buttini s.r.l.,19.5,20,390,31.2,421.2
+11066,22,5/1/2025,Robert King,16,Pavlova,7,"Pavlova, Ltd.",17.45,3,52.35,4.19,56.54
+11074,72,5/6/2025,Robert King,16,Pavlova,7,"Pavlova, Ltd.",17.45,14,244.3,19.54,263.84
+10262,7,7/22/2023,Laura Callahan,5,Chef Anton's Gumbo Mix,2,New Orleans Cajun Delights,17,12,204,16.32,220.32
+10262,7,7/22/2023,Laura Callahan,7,Uncle Bob's Organic Dried Pears,3,Grandma Kelly's Homestead,24,15,360,28.8,388.8
+10262,7,7/22/2023,Laura Callahan,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,30.4,2,60.8,4.86,65.66
+10268,46,7/30/2023,Laura Callahan,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,99,10,990,79.2,1069.2
+10268,46,7/30/2023,Laura Callahan,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,27.8,4,111.2,8.9,120.1
+10276,4,8/8/2023,Laura Callahan,10,Ikura,4,Tokyo Traders,24.8,15,372,29.76,401.76
+10276,4,8/8/2023,Laura Callahan,13,Konbu,6,Mayumi's,4.8,10,48,3.84,51.84
+10278,27,8/12/2023,Laura Callahan,44,Gula Malacca,20,Leka Trading,15.5,16,248,19.84,267.84
+10278,27,8/12/2023,Laura Callahan,59,Raclette Courdavault,28,Gai pturage,44,15,660,52.8,712.8
+10278,27,8/12/2023,Laura Callahan,63,Vegie-spread,7,"Pavlova, Ltd.",35.1,8,280.8,22.46,303.26
+10279,80,8/13/2023,Laura Callahan,17,Alice Mutton,7,"Pavlova, Ltd.",31.2,15,468,37.44,505.44
+10287,48,8/22/2023,Laura Callahan,34,Sasquatch Ale,16,Bigfoot Breweries,11.2,20,224,17.92,241.92
+10287,48,8/22/2023,Laura Callahan,46,Spegesild,21,Lyngbysild,9.6,15,144,11.52,155.52
+10290,57,8/27/2023,Laura Callahan,5,Chef Anton's Gumbo Mix,2,New Orleans Cajun Delights,17,20,340,27.2,367.2
+10290,57,8/27/2023,Laura Callahan,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,99,15,1485,118.8,1603.8
+10290,57,8/27/2023,Laura Callahan,49,Maxilaku,23,Karkki Oy,16,15,240,19.2,259.2
+10290,57,8/27/2023,Laura Callahan,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,10.4,10,104,8.32,112.32
+10301,38,9/9/2023,Laura Callahan,40,Boston Crab Meat,19,New England Seafood Cannery,14.7,10,147,11.76,158.76
+10301,38,9/9/2023,Laura Callahan,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,30.4,20,608,48.64,656.64
+10310,60,9/20/2023,Laura Callahan,16,Pavlova,7,"Pavlova, Ltd.",13.9,10,139,11.12,150.12
+10310,60,9/20/2023,Laura Callahan,62,Tarte au sucre,29,Forts d'rables,39.4,5,197,15.76,212.76
+10318,23,10/1/2023,Laura Callahan,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,7.7,20,154,12.32,166.32
+10318,23,10/1/2023,Laura Callahan,76,Lakkalikri,23,Karkki Oy,14.4,6,86.4,6.91,93.31
+10334,29,10/21/2023,Laura Callahan,52,Filo Mix,24,"G'day, Mate",5.6,8,44.8,3.58,48.38
+10334,29,10/21/2023,Laura Callahan,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",10,10,100,8,108
+10354,61,11/14/2023,Laura Callahan,1,Chai,1,Exotic Liquids,14.4,12,172.8,13.82,186.62
+10354,61,11/14/2023,Laura Callahan,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,99,4,396,31.68,427.68
+10366,56,11/28/2023,Laura Callahan,65,Louisiana Fiery Hot Pepper Sauce,2,New Orleans Cajun Delights,16.8,5,84,6.72,90.72
+10366,56,11/28/2023,Laura Callahan,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,10.4,5,52,4.16,56.16
+10369,15,12/2/2023,Laura Callahan,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,99,20,1980,158.4,2138.4
+10369,15,12/2/2023,Laura Callahan,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,30.4,18,547.2,43.78,590.98
+10380,31,12/12/2023,Laura Callahan,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,20.7,18,372.6,29.81,402.41
+10380,31,12/12/2023,Laura Callahan,53,Perth Pasties,24,"G'day, Mate",26.2,20,524,41.92,565.92
+10380,31,12/12/2023,Laura Callahan,60,Camembert Pierrot,28,Gai pturage,27.2,6,163.2,13.06,176.26
+10383,20,12/16/2023,Laura Callahan,13,Konbu,6,Mayumi's,4.8,20,96,7.68,103.68
+10383,20,12/16/2023,Laura Callahan,50,Valkoinen suklaa,23,Karkki Oy,13,15,195,15.6,210.6
+10383,20,12/16/2023,Laura Callahan,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,30.4,20,608,48.64,656.64
+10399,21,12/31/2023,Laura Callahan,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,10.4,14,145.6,11.65,157.25
+10408,47,1/8/2024,Laura Callahan,37,Gravad lax,17,Svensk Sjfda AB,20.8,10,208,16.64,224.64
+10408,47,1/8/2024,Laura Callahan,54,Tourtire,25,Ma Maison,5.9,6,35.4,2.83,38.23
+10412,71,1/13/2024,Laura Callahan,14,Tofu,6,Mayumi's,18.6,20,372,29.76,401.76
+10416,71,1/16/2024,Laura Callahan,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",7.3,20,146,11.68,157.68
+10416,71,1/16/2024,Laura Callahan,53,Perth Pasties,24,"G'day, Mate",26.2,10,262,20.96,282.96
+10416,71,1/16/2024,Laura Callahan,57,Ravioli Angelo,26,Pasta Buttini s.r.l.,15.6,20,312,24.96,336.96
+10421,33,1/21/2024,Laura Callahan,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",7.3,4,29.2,2.34,31.54
+10421,33,1/21/2024,Laura Callahan,53,Perth Pasties,24,"G'day, Mate",26.2,15,393,31.44,424.44
+10421,33,1/21/2024,Laura Callahan,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,10.4,10,104,8.32,112.32
+10435,69,2/4/2024,Laura Callahan,2,Chang,1,Exotic Liquids,15.2,10,152,12.16,164.16
+10435,69,2/4/2024,Laura Callahan,22,Gustaf's Knckebrd,9,PB Knckebrd AB,16.8,12,201.6,16.13,217.73
+10435,69,2/4/2024,Laura Callahan,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,27.8,10,278,22.24,300.24
+10437,71,2/5/2024,Laura Callahan,53,Perth Pasties,24,"G'day, Mate",26.2,15,393,31.44,424.44
+10443,30,2/12/2024,Laura Callahan,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',16.8,6,100.8,8.06,108.86
+10443,30,2/12/2024,Laura Callahan,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,36.4,12,436.8,34.94,471.74
+10450,29,2/19/2024,Laura Callahan,10,Ikura,4,Tokyo Traders,24.8,20,496,39.68,535.68
+10450,29,2/19/2024,Laura Callahan,54,Tourtire,25,Ma Maison,5.9,6,35.4,2.83,38.23
+10452,17,2/20/2024,Laura Callahan,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,36.4,15,546,43.68,589.68
+10455,71,2/24/2024,Laura Callahan,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,14.4,20,288,23.04,311.04
+10456,8,2/25/2024,Laura Callahan,49,Maxilaku,23,Karkki Oy,16,21,336,26.88,362.88
+10460,53,2/28/2024,Laura Callahan,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",10,21,210,16.8,226.8
+10460,53,2/28/2024,Laura Callahan,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,6.2,4,24.8,1.98,26.78
+10467,2,3/6/2024,Laura Callahan,25,NuNuCa Nu-Nougat-Creme,11,Heli Swaren GmbH & Co. KG,11.2,12,134.4,10.75,145.15
+10472,14,3/12/2024,Laura Callahan,51,Manjimup Dried Apples,24,"G'day, Mate",42.4,18,763.2,61.06,824.26
+10476,25,3/17/2024,Laura Callahan,55,Pt chinois,25,Ma Maison,19.2,2,38.4,3.07,41.47
+10476,25,3/17/2024,Laura Callahan,70,Outback Lager,7,"Pavlova, Ltd.",12,12,144,11.52,155.52
+10481,48,3/20/2024,Laura Callahan,49,Maxilaku,23,Karkki Oy,16,24,384,30.72,414.72
+10488,19,3/27/2024,Laura Callahan,73,Rd Kaviar,17,Svensk Sjfda AB,12,20,240,19.2,259.2
+10491,34,3/31/2024,Laura Callahan,44,Gula Malacca,20,Leka Trading,15.5,15,232.5,18.6,251.1
+10491,34,3/31/2024,Laura Callahan,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,10.4,7,72.8,5.82,78.62
+10498,25,4/7/2024,Laura Callahan,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,14,63,5.04,68.04
+10498,25,4/7/2024,Laura Callahan,40,Boston Crab Meat,19,New England Seafood Cannery,18.4,5,92,7.36,99.36
+10521,77,4/29/2024,Laura Callahan,35,Steeleye Stout,16,Bigfoot Breweries,18,3,54,4.32,58.32
+10521,77,4/29/2024,Laura Callahan,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,10,96.5,7.72,104.22
+10521,77,4/29/2024,Laura Callahan,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",12.5,6,75,6,81
+10533,53,5/12/2024,Laura Callahan,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,34.8,24,835.2,66.82,902.02
+10533,53,5/12/2024,Laura Callahan,73,Rd Kaviar,17,Svensk Sjfda AB,15,24,360,28.8,388.8
+10534,80,5/12/2024,Laura Callahan,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,25.89,10,258.9,20.71,279.61
+10534,80,5/12/2024,Laura Callahan,40,Boston Crab Meat,19,New England Seafood Cannery,18.4,10,184,14.72,198.72
+10534,80,5/12/2024,Laura Callahan,54,Tourtire,25,Ma Maison,7.45,10,74.5,5.96,80.46
+10545,24,5/22/2024,Laura Callahan,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',21,10,210,16.8,226.8
+10560,19,6/6/2024,Laura Callahan,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,25.89,20,517.8,41.42,559.22
+10560,19,6/6/2024,Laura Callahan,62,Tarte au sucre,29,Forts d'rables,49.3,15,739.5,59.16,798.66
+10565,35,6/11/2024,Laura Callahan,64,Wimmers gute Semmelkndel,12,Plutzer Lebensmittelgromrkte AG,33.25,18,598.5,47.88,646.38
+10571,1,6/17/2024,Laura Callahan,14,Tofu,6,Mayumi's,23.25,11,255.75,20.46,276.21
+10589,36,7/4/2024,Laura Callahan,35,Steeleye Stout,16,Bigfoot Breweries,18,4,72,5.76,77.76
+10596,22,7/11/2024,Laura Callahan,56,Gnocchi di nonna Alice,26,Pasta Buttini s.r.l.,38,5,190,15.2,205.2
+10596,22,7/11/2024,Laura Callahan,63,Vegie-spread,7,"Pavlova, Ltd.",43.9,24,1053.6,84.29,1137.89
+10602,21,7/17/2024,Laura Callahan,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,13,5,65,5.2,70.2
+10610,12,7/25/2024,Laura Callahan,36,Inlagd Sill,17,Svensk Sjfda AB,19,21,399,31.92,430.92
+10614,82,7/29/2024,Laura Callahan,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',21,14,294,23.52,317.52
+10614,82,7/29/2024,Laura Callahan,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",10,8,80,6.4,86.4
+10614,82,7/29/2024,Laura Callahan,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,18,5,90,7.2,97.2
+10623,19,8/7/2024,Laura Callahan,14,Tofu,6,Mayumi's,23.25,21,488.25,39.06,527.31
+10623,19,8/7/2024,Laura Callahan,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",9.2,15,138,11.04,149.04
+10623,19,8/7/2024,Laura Callahan,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,3,13.5,1.08,14.58
+10627,17,8/11/2024,Laura Callahan,62,Tarte au sucre,29,Forts d'rables,49.3,15,739.5,59.16,798.66
+10631,12,8/14/2024,Laura Callahan,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,7.75,8,62,4.96,66.96
+10632,38,8/14/2024,Laura Callahan,33,Geitost,15,Norske Meierier,2.5,20,50,4,54
+10635,2,8/18/2024,Laura Callahan,4,Chef Anton's Cajun Seasoning,2,New Orleans Cajun Delights,22,10,220,17.6,237.6
+10635,2,8/18/2024,Laura Callahan,5,Chef Anton's Gumbo Mix,2,New Orleans Cajun Delights,21.35,15,320.25,25.62,345.87
+10651,38,9/1/2024,Laura Callahan,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",9.2,12,110.4,8.83,119.23
+10651,38,9/1/2024,Laura Callahan,22,Gustaf's Knckebrd,9,PB Knckebrd AB,21,20,420,33.6,453.6
+10660,18,9/8/2024,Laura Callahan,20,Sir Rodney's Marmalade,8,"Specialty Biscuits, Ltd.",81,21,1701,136.08,1837.08
+10679,65,9/23/2024,Laura Callahan,59,Raclette Courdavault,28,Gai pturage,55,12,660,52.8,712.8
+10696,22,10/8/2024,Laura Callahan,17,Alice Mutton,7,"Pavlova, Ltd.",39,20,780,62.4,842.4
+10696,22,10/8/2024,Laura Callahan,46,Spegesild,21,Lyngbysild,12,18,216,17.28,233.28
+10706,41,10/16/2024,Laura Callahan,16,Pavlova,7,"Pavlova, Ltd.",17.45,20,349,27.92,376.92
+10706,41,10/16/2024,Laura Callahan,43,Ipoh Coffee,20,Leka Trading,46,24,1104,88.32,1192.32
+10706,41,10/16/2024,Laura Callahan,59,Raclette Courdavault,28,Gai pturage,55,8,440,35.2,475.2
+10719,32,10/27/2024,Laura Callahan,18,Carnarvon Tigers,7,"Pavlova, Ltd.",62.5,12,750,60,810
+10719,32,10/27/2024,Laura Callahan,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,25.89,3,77.67,6.21,83.88
+10720,33,10/28/2024,Laura Callahan,35,Steeleye Stout,16,Bigfoot Breweries,18,21,378,30.24,408.24
+10720,33,10/28/2024,Laura Callahan,71,Flotemysost,15,Norske Meierier,21.5,8,172,13.76,185.76
+10722,17,10/29/2024,Laura Callahan,2,Chang,1,Exotic Liquids,19,3,57,4.56,61.56
+10724,35,10/30/2024,Laura Callahan,10,Ikura,4,Tokyo Traders,31,16,496,39.68,535.68
+10724,35,10/30/2024,Laura Callahan,61,Sirop d'rable,29,Forts d'rables,28.5,5,142.5,11.4,153.9
+10756,15,11/27/2024,Laura Callahan,18,Carnarvon Tigers,7,"Pavlova, Ltd.",62.5,21,1312.5,105,1417.5
+10756,15,11/27/2024,Laura Callahan,36,Inlagd Sill,17,Svensk Sjfda AB,19,20,380,30.4,410.4
+10756,15,11/27/2024,Laura Callahan,68,Scottish Longbreads,8,"Specialty Biscuits, Ltd.",12.5,6,75,6,81
+10756,15,11/27/2024,Laura Callahan,69,Gudbrandsdalsost,15,Norske Meierier,36,20,720,57.6,777.6
+10770,42,12/9/2024,Laura Callahan,11,Queso Cabrales,5,Cooperativa de Quesos 'Las Cabras',21,15,315,25.2,340.2
+10786,70,12/19/2024,Laura Callahan,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,25.89,15,388.35,31.07,419.42
+10811,64,1/2/2025,Laura Callahan,19,Teatime Chocolate Biscuits,8,"Specialty Biscuits, Ltd.",9.2,15,138,11.04,149.04
+10811,64,1/2/2025,Laura Callahan,23,Tunnbrd,9,PB Knckebrd AB,9,18,162,12.96,174.96
+10824,53,1/9/2025,Laura Callahan,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,12,115.8,9.26,125.06
+10824,53,1/9/2025,Laura Callahan,70,Outback Lager,7,"Pavlova, Ltd.",15,9,135,10.8,145.8
+10852,7,1/26/2025,Laura Callahan,2,Chang,1,Exotic Liquids,19,15,285,22.8,307.8
+10852,7,1/26/2025,Laura Callahan,17,Alice Mutton,7,"Pavlova, Ltd.",39,6,234,18.72,252.72
+10857,27,1/28/2025,Laura Callahan,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,123.79,10,1237.9,99.03,1336.93
+10862,80,1/30/2025,Laura Callahan,52,Filo Mix,24,"G'day, Mate",7,8,56,4.48,60.48
+10883,37,2/12/2025,Laura Callahan,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,8,36,2.88,38.88
+10887,56,2/13/2025,Laura Callahan,25,NuNuCa Nu-Nougat-Creme,11,Heli Swaren GmbH & Co. KG,14,5,70,5.6,75.6
+10932,9,3/6/2025,Laura Callahan,62,Tarte au sucre,29,Forts d'rables,49.3,14,690.2,55.22,745.42
+10932,9,3/6/2025,Laura Callahan,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,34.8,16,556.8,44.54,601.34
+10932,9,3/6/2025,Laura Callahan,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,7.75,20,155,12.4,167.4
+10940,9,3/11/2025,Laura Callahan,7,Uncle Bob's Organic Dried Pears,3,Grandma Kelly's Homestead,30,8,240,19.2,259.2
+10940,9,3/11/2025,Laura Callahan,13,Konbu,6,Mayumi's,6,20,120,9.6,129.6
+10955,53,3/17/2025,Laura Callahan,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,7.75,12,93,7.44,100.44
+10957,25,3/18/2025,Laura Callahan,64,Wimmers gute Semmelkndel,12,Plutzer Lebensmittelgromrkte AG,33.25,8,266,21.28,287.28
+10961,70,3/19/2025,Laura Callahan,52,Filo Mix,24,"G'day, Mate",7,6,42,3.36,45.36
+10962,59,3/19/2025,Laura Callahan,53,Perth Pasties,24,"G'day, Mate",32.8,20,656,52.48,708.48
+10962,59,3/19/2025,Laura Callahan,69,Gudbrandsdalsost,15,Norske Meierier,36,9,324,25.92,349.92
+10977,53,3/26/2025,Laura Callahan,51,Manjimup Dried Apples,24,"G'day, Mate",53,10,530,42.4,572.4
+10977,53,3/26/2025,Laura Callahan,63,Vegie-spread,7,"Pavlova, Ltd.",43.9,20,878,70.24,948.24
+10979,1,3/26/2025,Laura Callahan,7,Uncle Bob's Organic Dried Pears,3,Grandma Kelly's Homestead,30,18,540,43.2,583.2
+10979,1,3/26/2025,Laura Callahan,12,Queso Manchego La Pastora,5,Cooperativa de Quesos 'Las Cabras',38,20,760,60.8,820.8
+10979,1,3/26/2025,Laura Callahan,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,24,300,24,324
+10986,81,3/30/2025,Laura Callahan,20,Sir Rodney's Marmalade,8,"Specialty Biscuits, Ltd.",81,15,1215,97.2,1312.2
+10986,81,3/30/2025,Laura Callahan,76,Lakkalikri,23,Karkki Oy,18,10,180,14.4,194.4
+10986,81,3/30/2025,Laura Callahan,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,13,15,195,15.6,210.6
+10987,11,3/31/2025,Laura Callahan,43,Ipoh Coffee,20,Leka Trading,46,6,276,22.08,298.08
+10987,11,3/31/2025,Laura Callahan,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,34.8,20,696,55.68,751.68
+10997,10,4/3/2025,Laura Callahan,46,Spegesild,21,Lyngbysild,12,20,240,19.2,259.2
+10997,10,4/3/2025,Laura Callahan,52,Filo Mix,24,"G'day, Mate",7,20,140,11.2,151.2
+10998,13,4/3/2025,Laura Callahan,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,12,54,4.32,58.32
+10998,13,4/3/2025,Laura Callahan,61,Sirop d'rable,29,Forts d'rables,28.5,7,199.5,15.96,215.46
+10998,13,4/3/2025,Laura Callahan,74,Longlife Tofu,4,Tokyo Traders,10,20,200,16,216
+11007,89,4/8/2025,Laura Callahan,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,123.79,10,1237.9,99.03,1336.93
+11007,89,4/8/2025,Laura Callahan,42,Singaporean Hokkien Fried Mee,20,Leka Trading,14,14,196,15.68,211.68
+11034,41,4/20/2025,Laura Callahan,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",10,15,150,12,162
+11034,41,4/20/2025,Laura Callahan,44,Gula Malacca,20,Leka Trading,19.45,12,233.4,18.67,252.07
+11034,41,4/20/2025,Laura Callahan,61,Sirop d'rable,29,Forts d'rables,28.5,6,171,13.68,184.68
+11036,49,4/20/2025,Laura Callahan,13,Konbu,6,Mayumi's,6,7,42,3.36,45.36
+11046,38,4/23/2025,Laura Callahan,12,Queso Manchego La Pastora,5,Cooperativa de Quesos 'Las Cabras',38,20,760,60.8,820.8
+11046,38,4/23/2025,Laura Callahan,32,Mascarpone Fabioli,14,Formaggi Fortini s.r.l.,32,15,480,38.4,518.4
+11046,38,4/23/2025,Laura Callahan,35,Steeleye Stout,16,Bigfoot Breweries,18,18,324,25.92,349.92
+11054,77,4/28/2025,Laura Callahan,33,Geitost,15,Norske Meierier,2.5,10,25,2,27
+11054,77,4/28/2025,Laura Callahan,67,Laughing Lumberjack Lager,16,Bigfoot Breweries,14,20,280,22.4,302.4
+11065,10,5/1/2025,Laura Callahan,30,Nord-Ost Matjeshering,13,Nord-Ost-Fisch Handelsgesellschaft mbH,25.89,4,103.56,8.28,111.84
+11065,10,5/1/2025,Laura Callahan,54,Tourtire,25,Ma Maison,7.45,20,149,11.92,160.92
+11068,70,5/4/2025,Laura Callahan,28,Rssle Sauerkraut,12,Plutzer Lebensmittelgromrkte AG,45.6,8,364.8,29.18,393.98
+11075,28,5/6/2025,Laura Callahan,2,Chang,1,Exotic Liquids,19,10,190,15.2,205.2
+11075,28,5/6/2025,Laura Callahan,76,Lakkalikri,23,Karkki Oy,18,2,36,2.88,38.88
+10255,28,7/12/2023,Anne Dodsworth,2,Chang,1,Exotic Liquids,15.2,20,304,24.32,328.32
+10324,17,10/8/2023,Anne Dodsworth,16,Pavlova,7,"Pavlova, Ltd.",13.9,21,291.9,23.35,315.25
+10331,9,10/16/2023,Anne Dodsworth,54,Tourtire,25,Ma Maison,5.9,15,88.5,7.08,95.58
+10386,68,12/18/2023,Anne Dodsworth,24,Guaran Fantstica,10,Refrescos Americanas LTDA,3.6,15,54,4.32,58.32
+10386,68,12/18/2023,Anne Dodsworth,34,Sasquatch Ale,16,Bigfoot Breweries,11.2,10,112,8.96,120.96
+10411,58,1/10/2024,Anne Dodsworth,59,Raclette Courdavault,28,Gai pturage,44,9,396,31.68,427.68
+10501,82,4/9/2024,Anne Dodsworth,54,Tourtire,25,Ma Maison,7.45,20,149,11.92,160.92
+10506,8,4/15/2024,Anne Dodsworth,25,NuNuCa Nu-Nougat-Creme,11,Heli Swaren GmbH & Co. KG,14,18,252,20.16,272.16
+10506,8,4/15/2024,Anne Dodsworth,70,Outback Lager,7,"Pavlova, Ltd.",15,14,210,16.8,226.8
+10538,62,5/15/2024,Anne Dodsworth,70,Outback Lager,7,"Pavlova, Ltd.",15,7,105,8.4,113.4
+10538,62,5/15/2024,Anne Dodsworth,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,34.8,1,34.8,2.78,37.58
+10557,80,6/3/2024,Anne Dodsworth,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,7.75,20,155,12.4,167.4
+10566,65,6/12/2024,Anne Dodsworth,18,Carnarvon Tigers,7,"Pavlova, Ltd.",62.5,18,1125,90,1215
+10566,65,6/12/2024,Anne Dodsworth,76,Lakkalikri,23,Karkki Oy,18,10,180,14.4,194.4
+10577,88,6/23/2024,Anne Dodsworth,39,Chartreuse verte,18,Aux joyeux ecclsiastiques,18,10,180,14.4,194.4
+10577,88,6/23/2024,Anne Dodsworth,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,7.75,20,155,12.4,167.4
+10577,88,6/23/2024,Anne Dodsworth,77,Original Frankfurter grne Soe,12,Plutzer Lebensmittelgromrkte AG,13,18,234,18.72,252.72
+10586,30,7/2/2024,Anne Dodsworth,52,Filo Mix,24,"G'day, Mate",7,4,28,2.24,30.24
+10646,31,8/27/2024,Anne Dodsworth,1,Chai,1,Exotic Liquids,18,15,270,21.6,291.6
+10646,31,8/27/2024,Anne Dodsworth,10,Ikura,4,Tokyo Traders,31,18,558,44.64,602.64
+10672,27,9/17/2024,Anne Dodsworth,38,Cte de Blaye,18,Aux joyeux ecclsiastiques,263.5,15,3952.5,316.2,4268.7
+10672,27,9/17/2024,Anne Dodsworth,71,Flotemysost,15,Norske Meierier,21.5,12,258,20.64,278.64
+10687,31,9/30/2024,Anne Dodsworth,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,123.79,10,1237.9,99.03,1336.93
+10687,31,9/30/2024,Anne Dodsworth,36,Inlagd Sill,17,Svensk Sjfda AB,19,6,114,9.12,123.12
+10705,25,10/15/2024,Anne Dodsworth,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,20,250,20,270
+10705,25,10/15/2024,Anne Dodsworth,32,Mascarpone Fabioli,14,Formaggi Fortini s.r.l.,32,4,128,10.24,138.24
+10736,31,11/11/2024,Anne Dodsworth,75,Rhnbru Klosterbier,12,Plutzer Lebensmittelgromrkte AG,7.75,20,155,12.4,167.4
+10745,59,11/18/2024,Anne Dodsworth,18,Carnarvon Tigers,7,"Pavlova, Ltd.",62.5,24,1500,120,1620
+10745,59,11/18/2024,Anne Dodsworth,44,Gula Malacca,20,Leka Trading,19.45,16,311.2,24.9,336.1
+10745,59,11/18/2024,Anne Dodsworth,72,Mozzarella di Giovanni,14,Formaggi Fortini s.r.l.,34.8,7,243.6,19.49,263.09
+10750,71,11/21/2024,Anne Dodsworth,14,Tofu,6,Mayumi's,23.25,5,116.25,9.3,125.55
+10771,1,12/10/2024,Anne Dodsworth,71,Flotemysost,15,Norske Meierier,21.5,16,344,27.52,371.52
+10782,77,12/17/2024,Anne Dodsworth,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,1,12.5,1,13.5
+10799,8,12/26/2024,Anne Dodsworth,13,Konbu,6,Mayumi's,6,20,120,9.6,129.6
+10799,8,12/26/2024,Anne Dodsworth,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,20,90,7.2,97.2
+10828,55,1/13/2025,Anne Dodsworth,20,Sir Rodney's Marmalade,8,"Specialty Biscuits, Ltd.",81,5,405,32.4,437.4
+10828,55,1/13/2025,Anne Dodsworth,38,Cte de Blaye,18,Aux joyeux ecclsiastiques,263.5,2,527,42.16,569.16
+10829,23,1/13/2025,Anne Dodsworth,2,Chang,1,Exotic Liquids,19,10,190,15.2,205.2
+10829,23,1/13/2025,Anne Dodsworth,8,Northwoods Cranberry Sauce,3,Grandma Kelly's Homestead,40,20,800,64,864
+10829,23,1/13/2025,Anne Dodsworth,13,Konbu,6,Mayumi's,6,10,60,4.8,64.8
+10829,23,1/13/2025,Anne Dodsworth,60,Camembert Pierrot,28,Gai pturage,34,21,714,57.12,771.12
+10837,27,1/16/2025,Anne Dodsworth,13,Konbu,6,Mayumi's,6,6,36,2.88,38.88
+10837,27,1/16/2025,Anne Dodsworth,76,Lakkalikri,23,Karkki Oy,18,21,378,30.24,408.24
+10849,8,1/23/2025,Anne Dodsworth,26,Gumbr Gummibrchen,11,Heli Swaren GmbH & Co. KG,31.23,18,562.14,44.97,607.11
+10853,82,1/27/2025,Anne Dodsworth,18,Carnarvon Tigers,7,"Pavlova, Ltd.",62.5,10,625,50,675
+10871,9,2/5/2025,Anne Dodsworth,16,Pavlova,7,"Pavlova, Ltd.",17.45,12,209.4,16.75,226.15
+10871,9,2/5/2025,Anne Dodsworth,17,Alice Mutton,7,"Pavlova, Ltd.",39,16,624,49.92,673.92
+10893,8,2/18/2025,Anne Dodsworth,24,Guaran Fantstica,10,Refrescos Americanas LTDA,4.5,10,45,3.6,48.6
+10893,8,2/18/2025,Anne Dodsworth,29,Thringer Rostbratwurst,12,Plutzer Lebensmittelgromrkte AG,123.79,24,2970.96,237.68,3208.64
+10893,8,2/18/2025,Anne Dodsworth,36,Inlagd Sill,17,Svensk Sjfda AB,19,20,380,30.4,410.4
+10905,52,2/24/2025,Anne Dodsworth,1,Chai,1,Exotic Liquids,18,20,360,28.8,388.8
+10951,28,3/16/2025,Anne Dodsworth,33,Geitost,15,Norske Meierier,2.5,15,37.5,3,40.5
+10951,28,3/16/2025,Anne Dodsworth,41,Jack's New England Clam Chowder,19,New England Seafood Cannery,9.65,6,57.9,4.63,62.53
+10963,34,3/19/2025,Anne Dodsworth,60,Camembert Pierrot,28,Gai pturage,34,2,68,5.44,73.44
+10978,85,3/26/2025,Anne Dodsworth,8,Northwoods Cranberry Sauce,3,Grandma Kelly's Homestead,40,20,800,64,864
+10978,85,3/26/2025,Anne Dodsworth,40,Boston Crab Meat,19,New England Seafood Cannery,18.4,10,184,14.72,198.72
+10978,85,3/26/2025,Anne Dodsworth,44,Gula Malacca,20,Leka Trading,19.45,6,116.7,9.34,126.04
+11016,20,4/10/2025,Anne Dodsworth,31,Gorgonzola Telino,14,Formaggi Fortini s.r.l.,12.5,15,187.5,15,202.5
+11016,20,4/10/2025,Anne Dodsworth,36,Inlagd Sill,17,Svensk Sjfda AB,19,16,304,24.32,328.32
+11058,82,4/29/2025,Anne Dodsworth,21,Sir Rodney's Scones,8,"Specialty Biscuits, Ltd.",10,3,30,2.4,32.4
+11058,82,4/29/2025,Anne Dodsworth,60,Camembert Pierrot,28,Gai pturage,34,21,714,57.12,771.12
+11058,82,4/29/2025,Anne Dodsworth,61,Sirop d'rable,29,Forts d'rables,28.5,4,114,9.12,123.12
