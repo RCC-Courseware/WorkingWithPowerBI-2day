@@ -2,6 +2,12 @@
 
 This folder contains materials for the introductory course Working With Power BI.
 
+For students who are not regular users of GitHub, you can download a zip file containing these materials using the following steps:
+- At the top of the repository contents, under the main toolbar, click on the green button labeled **<> Code**
+- From the <> Code menu, click the option for **Download ZIP**
+- Once downloading is complete, go to your Downloads folder to find the file WorkingWithPowerBI-2day-main.zip 
+- Extract the zip file contents to a location on your computer where you can find it back again. This is the folder you will refer back to throughout this course.
+
 ## Project Source Data
 
 Contains source data for the project that will be built out over two class days, plus copy-paste reference sheet for links and code blocks.
